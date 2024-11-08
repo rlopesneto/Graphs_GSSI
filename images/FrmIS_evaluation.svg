@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3770pt" height="330pt" viewBox="0.00 0.00 3770.00 330.40">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 326.4)">
+<title>ISSM_Evaluation</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-326.4 3766,-326.4 3766,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_overview</title>
+<polygon fill="#d3e9ff" stroke="#000000" points="1516,-236.8 1516,-314.4 1894,-314.4 1894,-236.8 1516,-236.8"/>
+<text text-anchor="middle" x="1705" y="-297.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Formal issue - evaluation </text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_intro</title>
+<polygon fill="#e6f7d9" stroke="#000000" points="8,-14 8,-110.8 1513,-110.8 1513,-14 8,-14"/>
+<text text-anchor="middle" x="760.5" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 1: Introduction to Evaluation</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_evaluation_process</title>
+<polygon fill="#ffd7d7" stroke="#000000" points="1605,-8 1605,-116.8 2463,-116.8 2463,-8 1605,-8"/>
+<text text-anchor="middle" x="2034" y="-100.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 2: Evaluation Process and Standards</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_evaluation_principles</title>
+<polygon fill="#f9d7f7" stroke="#000000" points="2556,-24 2556,-100.8 3754,-100.8 3754,-24 2556,-24"/>
+<text text-anchor="middle" x="3155" y="-84.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 3: Principles for ISS Evaluation</text>
+</g>
+<!-- ISSM Overview -->
+<g id="node1" class="node">
+<title>ISSM Overview</title>
+<path fill="#f9f9f9" stroke="transparent" d="M1874.08,-281.5005C1874.08,-281.5005 1535.92,-281.5005 1535.92,-281.5005 1529.92,-281.5005 1523.92,-275.5005 1523.92,-269.5005 1523.92,-269.5005 1523.92,-256.8995 1523.92,-256.8995 1523.92,-250.8995 1529.92,-244.8995 1535.92,-244.8995 1535.92,-244.8995 1874.08,-244.8995 1874.08,-244.8995 1880.08,-244.8995 1886.08,-250.8995 1886.08,-256.8995 1886.08,-256.8995 1886.08,-269.5005 1886.08,-269.5005 1886.08,-275.5005 1880.08,-281.5005 1874.08,-281.5005"/>
+<text text-anchor="middle" x="1705" y="-266.8" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#333333">Focus: Assess security integrity and effectiveness of ISS controls</text>
+<text text-anchor="middle" x="1705" y="-252.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#333333">Compare evaluation methods, standards, and principles</text>
+</g>
+<!-- Evaluation_Purpose -->
+<g id="node2" class="node">
+<title>Evaluation_Purpose</title>
+<path fill="#f9f9f9" stroke="#555555" d="M277.7791,-68C277.7791,-68 28.2209,-68 28.2209,-68 22.2209,-68 16.2209,-62 16.2209,-56 16.2209,-56 16.2209,-44 16.2209,-44 16.2209,-38 22.2209,-32 28.2209,-32 28.2209,-32 277.7791,-32 277.7791,-32 283.7791,-32 289.7791,-38 289.7791,-44 289.7791,-44 289.7791,-56 289.7791,-56 289.7791,-62 283.7791,-68 277.7791,-68"/>
+<text text-anchor="middle" x="153" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Purpose</text>
+<text text-anchor="middle" x="153" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Assess integrity and security of IS processes and systems</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Evaluation_Purpose -->
+<g id="edge1" class="edge">
+<title>ISSM Overview-&gt;Evaluation_Purpose</title>
+<path fill="none" stroke="#555555" d="M1523.6937,-257.5092C1260.5029,-246.1529 758.645,-212.8133 343,-116.8 295.3078,-105.7832 242.9595,-86.8399 205.3088,-71.9335"/>
+<polygon fill="#555555" stroke="#555555" points="195.5811,-68.0426 206.5371,-67.5783 200.2235,-69.8995 204.8659,-71.7565 204.8659,-71.7565 204.8659,-71.7565 200.2235,-69.8995 203.1947,-75.9346 195.5811,-68.0426 195.5811,-68.0426"/>
+<text text-anchor="middle" x="634.6038" y="-160.2" font-family="Times,serif" font-size="14.00" fill="#000000">Introduction</text>
+</g>
+<!-- Conventional_Evaluation -->
+<g id="node3" class="node">
+<title>Conventional_Evaluation</title>
+<path fill="#f9f9f9" stroke="#555555" d="M670.9884,-72C670.9884,-72 409.0116,-72 409.0116,-72 403.0116,-72 397.0116,-66 397.0116,-60 397.0116,-60 397.0116,-40 397.0116,-40 397.0116,-34 403.0116,-28 409.0116,-28 409.0116,-28 670.9884,-28 670.9884,-28 676.9884,-28 682.9884,-34 682.9884,-40 682.9884,-40 682.9884,-60 682.9884,-60 682.9884,-66 676.9884,-72 670.9884,-72"/>
+<text text-anchor="middle" x="540" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Conventional Evaluation</text>
+<text text-anchor="middle" x="540" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Features: Functionalist, prescriptive</text>
+<text text-anchor="middle" x="540" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Consequences: Hard metrics, limited organizational context</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Conventional_Evaluation -->
+<g id="edge2" class="edge">
+<title>ISSM Overview-&gt;Conventional_Evaluation</title>
+<path fill="none" stroke="#555555" d="M1523.8502,-245.4848C1327.9653,-224.0893 1007.4415,-182.5548 737,-116.8 692.5184,-105.9848 643.788,-89.5024 605.922,-75.6166"/>
+<polygon fill="#555555" stroke="#555555" points="596.5383,-72.1473 607.4783,-71.3943 601.228,-73.8812 605.9178,-75.6151 605.9178,-75.6151 605.9178,-75.6151 601.228,-73.8812 604.3573,-79.8359 596.5383,-72.1473 596.5383,-72.1473"/>
+</g>
+<!-- Sophisticated_Evaluation -->
+<g id="node4" class="node">
+<title>Sophisticated_Evaluation</title>
+<path fill="#f9f9f9" stroke="#555555" d="M969.4876,-72C969.4876,-72 802.5124,-72 802.5124,-72 796.5124,-72 790.5124,-66 790.5124,-60 790.5124,-60 790.5124,-40 790.5124,-40 790.5124,-34 796.5124,-28 802.5124,-28 802.5124,-28 969.4876,-28 969.4876,-28 975.4876,-28 981.4876,-34 981.4876,-40 981.4876,-40 981.4876,-60 981.4876,-60 981.4876,-66 975.4876,-72 969.4876,-72"/>
+<text text-anchor="middle" x="886" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Sophisticated Evaluation</text>
+<text text-anchor="middle" x="886" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Focus: Social interactions and context</text>
+<text text-anchor="middle" x="886" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Considers organizational factors</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Sophisticated_Evaluation -->
+<g id="edge3" class="edge">
+<title>ISSM Overview-&gt;Sophisticated_Evaluation</title>
+<path fill="none" stroke="#555555" d="M1586.2347,-244.8802C1450.7482,-222.2368 1223.5668,-178.9318 1035,-116.8 1001.8593,-105.8803 966.1422,-90.0187 937.9875,-76.4918"/>
+<polygon fill="#555555" stroke="#555555" points="928.7439,-72.0044 939.7052,-72.3234 933.2419,-74.188 937.7399,-76.3716 937.7399,-76.3716 937.7399,-76.3716 933.2419,-74.188 935.7746,-80.4198 928.7439,-72.0044 928.7439,-72.0044"/>
+</g>
+<!-- Audit_vs_Review -->
+<g id="node5" class="node">
+<title>Audit_vs_Review</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1291.3503,-72C1291.3503,-72 1100.6497,-72 1100.6497,-72 1094.6497,-72 1088.6497,-66 1088.6497,-60 1088.6497,-60 1088.6497,-40 1088.6497,-40 1088.6497,-34 1094.6497,-28 1100.6497,-28 1100.6497,-28 1291.3503,-28 1291.3503,-28 1297.3503,-28 1303.3503,-34 1303.3503,-40 1303.3503,-40 1303.3503,-60 1303.3503,-60 1303.3503,-66 1297.3503,-72 1291.3503,-72"/>
+<text text-anchor="middle" x="1196" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Audit vs. Review</text>
+<text text-anchor="middle" x="1196" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Audit: Compliance-focused, official reports</text>
+<text text-anchor="middle" x="1196" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Review: Consultative, internal improvement</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Audit_vs_Review -->
+<g id="edge4" class="edge">
+<title>ISSM Overview-&gt;Audit_vs_Review</title>
+<path fill="none" stroke="#555555" d="M1661.1624,-244.8382C1570.5486,-206.8836 1362.385,-119.6921 1258.0254,-75.98"/>
+<polygon fill="#555555" stroke="#555555" points="1248.5618,-72.0161 1259.5239,-71.7289 1253.1736,-73.9478 1257.7854,-75.8795 1257.7854,-75.8795 1257.7854,-75.8795 1253.1736,-73.9478 1256.0468,-80.0301 1248.5618,-72.0161 1248.5618,-72.0161"/>
+</g>
+<!-- Types_of_Audit -->
+<g id="node6" class="node">
+<title>Types_of_Audit</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1492.7453,-78C1492.7453,-78 1423.2547,-78 1423.2547,-78 1417.2547,-78 1411.2547,-72 1411.2547,-66 1411.2547,-66 1411.2547,-34 1411.2547,-34 1411.2547,-28 1417.2547,-22 1423.2547,-22 1423.2547,-22 1492.7453,-22 1492.7453,-22 1498.7453,-22 1504.7453,-28 1504.7453,-34 1504.7453,-34 1504.7453,-66 1504.7453,-66 1504.7453,-72 1498.7453,-78 1492.7453,-78"/>
+<text text-anchor="middle" x="1458" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Types of Auditing</text>
+<text text-anchor="middle" x="1458" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- External</text>
+<text text-anchor="middle" x="1458" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Internal</text>
+<text text-anchor="middle" x="1458" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Governmental</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Types_of_Audit -->
+<g id="edge5" class="edge">
+<title>ISSM Overview-&gt;Types_of_Audit</title>
+<path fill="none" stroke="#555555" d="M1683.5125,-244.6529C1642.3176,-209.0952 1551.6274,-130.8152 1498.6598,-85.0959"/>
+<polygon fill="#555555" stroke="#555555" points="1490.8127,-78.3225 1501.3231,-81.4501 1494.5977,-81.5896 1498.3827,-84.8567 1498.3827,-84.8567 1498.3827,-84.8567 1494.5977,-81.5896 1495.4423,-88.2632 1490.8127,-78.3225 1490.8127,-78.3225"/>
+</g>
+<!-- ISO_Standards -->
+<g id="node7" class="node">
+<title>ISO_Standards</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1785.3674,-84C1785.3674,-84 1624.6326,-84 1624.6326,-84 1618.6326,-84 1612.6326,-78 1612.6326,-72 1612.6326,-72 1612.6326,-28 1612.6326,-28 1612.6326,-22 1618.6326,-16 1624.6326,-16 1624.6326,-16 1785.3674,-16 1785.3674,-16 1791.3674,-16 1797.3674,-22 1797.3674,-28 1797.3674,-28 1797.3674,-72 1797.3674,-72 1797.3674,-78 1791.3674,-84 1785.3674,-84"/>
+<text text-anchor="middle" x="1705" y="-71" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ISO Standards</text>
+<text text-anchor="middle" x="1705" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- ISO/IEC 15408: IT Security Criteria</text>
+<text text-anchor="middle" x="1705" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- ISO/IEC 21827: SSE-CMM</text>
+<text text-anchor="middle" x="1705" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- ISO/IEC 27001: ISMS Requirements</text>
+<text text-anchor="middle" x="1705" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- ISO/IEC 27002: Code of Practice</text>
+</g>
+<!-- ISSM Overview&#45;&gt;ISO_Standards -->
+<g id="edge6" class="edge">
+<title>ISSM Overview-&gt;ISO_Standards</title>
+<path fill="none" stroke="#555555" d="M1705,-244.6529C1705,-211.4053 1705,-140.8063 1705,-94.3985"/>
+<polygon fill="#555555" stroke="#555555" points="1705,-84.3107 1709.5001,-94.3106 1705,-89.3107 1705.0001,-94.3107 1705.0001,-94.3107 1705.0001,-94.3107 1705,-89.3107 1700.5001,-94.3107 1705,-84.3107 1705,-84.3107"/>
+<text text-anchor="middle" x="1767.5919" y="-160.2" font-family="Times,serif" font-size="14.00" fill="#000000">Process and Standards</text>
+</g>
+<!-- Evaluation_Framework -->
+<g id="node8" class="node">
+<title>Evaluation_Framework</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2114.6034,-68C2114.6034,-68 1917.3966,-68 1917.3966,-68 1911.3966,-68 1905.3966,-62 1905.3966,-56 1905.3966,-56 1905.3966,-44 1905.3966,-44 1905.3966,-38 1911.3966,-32 1917.3966,-32 1917.3966,-32 2114.6034,-32 2114.6034,-32 2120.6034,-32 2126.6034,-38 2126.6034,-44 2126.6034,-44 2126.6034,-56 2126.6034,-56 2126.6034,-62 2120.6034,-68 2114.6034,-68"/>
+<text text-anchor="middle" x="2016" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">IS Security Evaluation Framework</text>
+<text text-anchor="middle" x="2016" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Applies security evaluation to specific contexts</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Evaluation_Framework -->
+<g id="edge7" class="edge">
+<title>ISSM Overview-&gt;Evaluation_Framework</title>
+<path fill="none" stroke="#555555" d="M1738.6297,-244.7533C1769.9178,-227.2302 1817.5173,-199.6432 1857,-172.8 1903.7329,-141.0276 1955.0003,-100.284 1986.3433,-74.6515"/>
+<polygon fill="#555555" stroke="#555555" points="1994.2511,-68.159 1989.3778,-77.9825 1990.3867,-71.3318 1986.5223,-74.5046 1986.5223,-74.5046 1986.5223,-74.5046 1990.3867,-71.3318 1983.6668,-71.0266 1994.2511,-68.159 1994.2511,-68.159"/>
+</g>
+<!-- Decision_Framework -->
+<g id="node9" class="node">
+<title>Decision_Framework</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2443.4946,-72C2443.4946,-72 2246.5054,-72 2246.5054,-72 2240.5054,-72 2234.5054,-66 2234.5054,-60 2234.5054,-60 2234.5054,-40 2234.5054,-40 2234.5054,-34 2240.5054,-28 2246.5054,-28 2246.5054,-28 2443.4946,-28 2443.4946,-28 2449.4946,-28 2455.4946,-34 2455.4946,-40 2455.4946,-40 2455.4946,-60 2455.4946,-60 2455.4946,-66 2449.4946,-72 2443.4946,-72"/>
+<text text-anchor="middle" x="2345" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">IS Security Decision-Making</text>
+<text text-anchor="middle" x="2345" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Fundamental Objectives: High-priority goals</text>
+<text text-anchor="middle" x="2345" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Means Objectives: Methods to achieve goals</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Decision_Framework -->
+<g id="edge8" class="edge">
+<title>ISSM Overview-&gt;Decision_Framework</title>
+<path fill="none" stroke="#555555" d="M1771.0491,-244.8874C1863.5164,-218.7979 2036.4531,-168.3531 2181,-116.8 2215.7709,-104.3988 2254.005,-88.9345 2284.8033,-76.009"/>
+<polygon fill="#555555" stroke="#555555" points="2294.1106,-72.0853 2286.6441,-80.1166 2289.5033,-74.0276 2284.896,-75.97 2284.896,-75.97 2284.896,-75.97 2289.5033,-74.0276 2283.1479,-71.8234 2294.1106,-72.0853 2294.1106,-72.0853"/>
+</g>
+<!-- Principle_Organizational_Nature -->
+<g id="node10" class="node">
+<title>Principle_Organizational_Nature</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2916.45,-68C2916.45,-68 2575.55,-68 2575.55,-68 2569.55,-68 2563.55,-62 2563.55,-56 2563.55,-56 2563.55,-44 2563.55,-44 2563.55,-38 2569.55,-32 2575.55,-32 2575.55,-32 2916.45,-32 2916.45,-32 2922.45,-32 2928.45,-38 2928.45,-44 2928.45,-44 2928.45,-56 2928.45,-56 2928.45,-62 2922.45,-68 2916.45,-68"/>
+<text text-anchor="middle" x="2746" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Principle 1: Understand Organizational Nature</text>
+<text text-anchor="middle" x="2746" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Consider organizational characteristics, coordination, environmental interaction</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Principle_Organizational_Nature -->
+<g id="edge9" class="edge">
+<title>ISSM Overview-&gt;Principle_Organizational_Nature</title>
+<path fill="none" stroke="#555555" d="M1816.979,-244.8861C1969.736,-219.3185 2251.7051,-170.0404 2490,-116.8 2551.7778,-102.9975 2621.2305,-84.697 2672.1917,-70.7413"/>
+<polygon fill="#555555" stroke="#555555" points="2682.1296,-68.0107 2673.6793,-74.9994 2677.3083,-69.3354 2672.487,-70.6602 2672.487,-70.6602 2672.487,-70.6602 2677.3083,-69.3354 2671.2947,-66.321 2682.1296,-68.0107 2682.1296,-68.0107"/>
+<text text-anchor="middle" x="2324.9944" y="-160.2" font-family="Times,serif" font-size="14.00" fill="#000000">Principles</text>
+</g>
+<!-- Principle_Contextual_Analysis -->
+<g id="node11" class="node">
+<title>Principle_Contextual_Analysis</title>
+<path fill="#f9f9f9" stroke="#555555" d="M3347.7881,-68C3347.7881,-68 3048.2119,-68 3048.2119,-68 3042.2119,-68 3036.2119,-62 3036.2119,-56 3036.2119,-56 3036.2119,-44 3036.2119,-44 3036.2119,-38 3042.2119,-32 3048.2119,-32 3048.2119,-32 3347.7881,-32 3347.7881,-32 3353.7881,-32 3359.7881,-38 3359.7881,-44 3359.7881,-44 3359.7881,-56 3359.7881,-56 3359.7881,-62 3353.7881,-68 3347.7881,-68"/>
+<text text-anchor="middle" x="3198" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Principle 2: Contextual Analysis</text>
+<text text-anchor="middle" x="3198" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Avoid rigid quantification, include socio-political and technical aspects</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Principle_Contextual_Analysis -->
+<g id="edge10" class="edge">
+<title>ISSM Overview-&gt;Principle_Contextual_Analysis</title>
+<path fill="none" stroke="#555555" d="M1886.186,-253.0545C2135.2537,-236.7042 2596.4088,-197.7924 2982,-116.8 3036.2839,-105.3978 3096.4547,-86.2293 3139.4726,-71.3429"/>
+<polygon fill="#555555" stroke="#555555" points="3148.9286,-68.044 3140.969,-75.5869 3144.2077,-69.691 3139.4867,-71.338 3139.4867,-71.338 3139.4867,-71.338 3144.2077,-69.691 3138.0044,-67.0891 3148.9286,-68.044 3148.9286,-68.044"/>
+</g>
+<!-- Principle_Stakeholder_Analysis -->
+<g id="node12" class="node">
+<title>Principle_Stakeholder_Analysis</title>
+<path fill="#f9f9f9" stroke="#555555" d="M3734.2932,-68C3734.2932,-68 3479.7068,-68 3479.7068,-68 3473.7068,-68 3467.7068,-62 3467.7068,-56 3467.7068,-56 3467.7068,-44 3467.7068,-44 3467.7068,-38 3473.7068,-32 3479.7068,-32 3479.7068,-32 3734.2932,-32 3734.2932,-32 3740.2932,-32 3746.2932,-38 3746.2932,-44 3746.2932,-44 3746.2932,-56 3746.2932,-56 3746.2932,-62 3740.2932,-68 3734.2932,-68"/>
+<text text-anchor="middle" x="3607" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Principle 3: Stakeholder Analysis</text>
+<text text-anchor="middle" x="3607" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Engage diverse stakeholders for comprehensive evaluation</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Principle_Stakeholder_Analysis -->
+<g id="edge11" class="edge">
+<title>ISSM Overview-&gt;Principle_Stakeholder_Analysis</title>
+<path fill="none" stroke="#555555" d="M1886.1792,-253.4544C2264.3208,-232.1702 3126.2829,-178.4687 3414,-116.8 3463.0604,-106.2845 3516.854,-86.9835 3555.1578,-71.8227"/>
+<polygon fill="#555555" stroke="#555555" points="3564.55,-68.0653 3556.9369,-75.9578 3559.9077,-69.9225 3555.2654,-71.7797 3555.2654,-71.7797 3555.2654,-71.7797 3559.9077,-69.9225 3553.5939,-67.6016 3564.55,-68.0653 3564.55,-68.0653"/>
+</g>
+</g>
+</svg>

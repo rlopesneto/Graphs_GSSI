@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5389pt" height="354pt" viewBox="0.00 0.00 5389.00 353.60">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 349.6)">
+<title>ISSM_Formal_Issues</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-349.6 5385,-349.6 5385,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_overview</title>
+<polygon fill="#d3e9ff" stroke="#000000" points="2519,-260.8 2519,-337.6 2909,-337.6 2909,-260.8 2519,-260.8"/>
+<text text-anchor="middle" x="2714" y="-321" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Formal Dimension of ISS</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_intro</title>
+<polygon fill="#e6f7d9" stroke="#000000" points="8,-8 8,-140.8 536,-140.8 536,-8 8,-8"/>
+<text text-anchor="middle" x="272" y="-124.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 1: Introduction to Formal Issues</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_sins</title>
+<polygon fill="#ffd7d7" stroke="#000000" points="627,-36 627,-112.8 3391,-112.8 3391,-36 627,-36"/>
+<text text-anchor="middle" x="2009" y="-96.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 2: The 10 Deadly Sins of ISS Management</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_management</title>
+<polygon fill="#d9f0ff" stroke="#000000" points="3483,-36 3483,-112.8 4853,-112.8 4853,-36 3483,-36"/>
+<text text-anchor="middle" x="4168" y="-96.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 3: Management Goals and Key Issues</text>
+</g>
+<g id="clust5" class="cluster">
+<title>cluster_responsibility</title>
+<polygon fill="#e6f7d9" stroke="#000000" points="4945,-20 4945,-128.8 5373,-128.8 5373,-20 4945,-20"/>
+<text text-anchor="middle" x="5159" y="-112.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 4: Responsibility and Authority Structures</text>
+</g>
+<!-- ISSM Overview -->
+<g id="node1" class="node">
+<title>ISSM Overview</title>
+<path fill="#f9f9f9" stroke="transparent" d="M2889.2221,-304.8C2889.2221,-304.8 2538.7779,-304.8 2538.7779,-304.8 2532.7779,-304.8 2526.7779,-298.8 2526.7779,-292.8 2526.7779,-292.8 2526.7779,-280.8 2526.7779,-280.8 2526.7779,-274.8 2532.7779,-268.8 2538.7779,-268.8 2538.7779,-268.8 2889.2221,-268.8 2889.2221,-268.8 2895.2221,-268.8 2901.2221,-274.8 2901.2221,-280.8 2901.2221,-280.8 2901.2221,-292.8 2901.2221,-292.8 2901.2221,-298.8 2895.2221,-304.8 2889.2221,-304.8"/>
+<text text-anchor="middle" x="2714" y="-283.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#333333">Focus: Organizational structures, responsibilities, control processes</text>
+</g>
+<!-- Purpose -->
+<g id="node2" class="node">
+<title>Purpose</title>
+<path fill="#f9f9f9" stroke="#555555" d="M253.927,-80C253.927,-80 28.073,-80 28.073,-80 22.073,-80 16.073,-74 16.073,-68 16.073,-68 16.073,-56 16.073,-56 16.073,-50 22.073,-44 28.073,-44 28.073,-44 253.927,-44 253.927,-44 259.927,-44 265.927,-50 265.927,-56 265.927,-56 265.927,-68 265.927,-68 265.927,-74 259.927,-80 253.927,-80"/>
+<text text-anchor="middle" x="141" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Purpose</text>
+<text text-anchor="middle" x="141" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Structured responsibilities and processes for security</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Purpose -->
+<g id="edge1" class="edge">
+<title>ISSM Overview-&gt;Purpose</title>
+<path fill="none" stroke="#555555" d="M2526.6848,-281.1876C2093.6297,-267.7793 1033.079,-232.3447 677.7924,-196.8 517.6371,-180.7772 474.4633,-186.0498 320,-140.8 271.8417,-126.6921 219.6289,-102.6101 184.094,-84.7724"/>
+<polygon fill="#555555" stroke="#555555" points="174.9819,-80.1516 185.9359,-80.661 179.4413,-82.413 183.9007,-84.6745 183.9007,-84.6745 183.9007,-84.6745 179.4413,-82.413 181.8654,-88.6879 174.9819,-80.1516 174.9819,-80.1516"/>
+<text text-anchor="middle" x="712.6038" y="-184.2" font-family="Times,serif" font-size="14.00" fill="#000000">Introduction</text>
+</g>
+<!-- Formal_Controls -->
+<g id="node3" class="node">
+<title>Formal_Controls</title>
+<path fill="#f9f9f9" stroke="#555555" d="M515.7931,-108C515.7931,-108 386.2069,-108 386.2069,-108 380.2069,-108 374.2069,-102 374.2069,-96 374.2069,-96 374.2069,-28 374.2069,-28 374.2069,-22 380.2069,-16 386.2069,-16 386.2069,-16 515.7931,-16 515.7931,-16 521.7931,-16 527.7931,-22 527.7931,-28 527.7931,-28 527.7931,-96 527.7931,-96 527.7931,-102 521.7931,-108 515.7931,-108"/>
+<text text-anchor="middle" x="451" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Examples of Formal Controls</text>
+<text text-anchor="middle" x="451" y="-83" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Assignment of responsibilities</text>
+<text text-anchor="middle" x="451" y="-71" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- ISS Plans and Policies</text>
+<text text-anchor="middle" x="451" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Personnel controls</text>
+<text text-anchor="middle" x="451" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Segregation of Duties</text>
+<text text-anchor="middle" x="451" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Risk Management</text>
+<text text-anchor="middle" x="451" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Training, Contingency Plans</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Formal_Controls -->
+<g id="edge2" class="edge">
+<title>ISSM Overview-&gt;Formal_Controls</title>
+<path fill="none" stroke="#555555" d="M2526.7317,-282.4806C2210.1583,-273.9539 1549.3082,-250.8724 993,-196.8 817.3966,-179.7316 767.8043,-195.2941 600,-140.8 578.1801,-133.714 555.7507,-123.5779 535.1313,-112.9242"/>
+<polygon fill="#555555" stroke="#555555" points="526.1042,-108.1688 537.049,-108.8483 530.5279,-110.4992 534.9517,-112.8296 534.9517,-112.8296 534.9517,-112.8296 530.5279,-110.4992 532.8543,-116.811 526.1042,-108.1688 526.1042,-108.1688"/>
+</g>
+<!-- Corporate_Governance -->
+<g id="node4" class="node">
+<title>Corporate_Governance</title>
+<path fill="#f9f9f9" stroke="#555555" d="M794.541,-80C794.541,-80 647.459,-80 647.459,-80 641.459,-80 635.459,-74 635.459,-68 635.459,-68 635.459,-56 635.459,-56 635.459,-50 641.459,-44 647.459,-44 647.459,-44 794.541,-44 794.541,-44 800.541,-44 806.541,-50 806.541,-56 806.541,-56 806.541,-68 806.541,-68 806.541,-74 800.541,-80 794.541,-80"/>
+<text text-anchor="middle" x="721" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#1: Corporate Governance Neglect</text>
+<text text-anchor="middle" x="721" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Top-level responsibility ignored</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Corporate_Governance -->
+<g id="edge3" class="edge">
+<title>ISSM Overview-&gt;Corporate_Governance</title>
+<path fill="none" stroke="#555555" d="M2526.7326,-281.5643C2241.6603,-272.2477 1682.0438,-248.6715 1209.4558,-196.8 1053.0996,-179.6383 1008.4312,-192.8575 860,-140.8 821.7349,-127.3797 781.8476,-103.5925 754.6674,-85.6534"/>
+<polygon fill="#555555" stroke="#555555" points="746.3073,-80.0551 757.1203,-81.8802 750.4619,-82.8372 754.6164,-85.6193 754.6164,-85.6193 754.6164,-85.6193 750.4619,-82.8372 752.1125,-89.3583 746.3073,-80.0551 746.3073,-80.0551"/>
+<text text-anchor="middle" x="1252.7721" y="-184.2" font-family="Times,serif" font-size="14.00" fill="#000000">10 Deadly Sins</text>
+</g>
+<!-- Technical_Only_View -->
+<g id="node5" class="node">
+<title>Technical_Only_View</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1067.9727,-80C1067.9727,-80 926.0273,-80 926.0273,-80 920.0273,-80 914.0273,-74 914.0273,-68 914.0273,-68 914.0273,-56 914.0273,-56 914.0273,-50 920.0273,-44 926.0273,-44 926.0273,-44 1067.9727,-44 1067.9727,-44 1073.9727,-44 1079.9727,-50 1079.9727,-56 1079.9727,-56 1079.9727,-68 1079.9727,-68 1079.9727,-74 1073.9727,-80 1067.9727,-80"/>
+<text text-anchor="middle" x="997" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#2: Viewing Security as Technical</text>
+<text text-anchor="middle" x="997" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Overlooking business impact</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Technical_Only_View -->
+<g id="edge4" class="edge">
+<title>ISSM Overview-&gt;Technical_Only_View</title>
+<path fill="none" stroke="#555555" d="M2526.4367,-280.0658C2165.4063,-265.3695 1387.1137,-224.7959 1133,-140.8 1095.0569,-128.2581 1056.0195,-104.2787 1029.5565,-86.0517"/>
+<polygon fill="#555555" stroke="#555555" points="1021.0839,-80.1157 1031.856,-82.1682 1025.1789,-82.9847 1029.2739,-85.8537 1029.2739,-85.8537 1029.2739,-85.8537 1025.1789,-82.9847 1026.6918,-89.5392 1021.0839,-80.1157 1021.0839,-80.1157"/>
+</g>
+<!-- Multidimensional -->
+<g id="node6" class="node">
+<title>Multidimensional</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1378.7632,-80C1378.7632,-80 1199.2368,-80 1199.2368,-80 1193.2368,-80 1187.2368,-74 1187.2368,-68 1187.2368,-68 1187.2368,-56 1187.2368,-56 1187.2368,-50 1193.2368,-44 1199.2368,-44 1199.2368,-44 1378.7632,-44 1378.7632,-44 1384.7632,-44 1390.7632,-50 1390.7632,-56 1390.7632,-56 1390.7632,-68 1390.7632,-68 1390.7632,-74 1384.7632,-80 1378.7632,-80"/>
+<text text-anchor="middle" x="1289" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#3: Ignoring Multidimensional Governance</text>
+<text text-anchor="middle" x="1289" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Lack of understanding ISS complexity</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Multidimensional -->
+<g id="edge5" class="edge">
+<title>ISSM Overview-&gt;Multidimensional</title>
+<path fill="none" stroke="#555555" d="M2526.5251,-273.7512C2223.8539,-251.259 1641.5077,-201.6881 1444,-140.8 1401.3339,-127.6468 1356.2315,-103.39 1325.749,-85.2497"/>
+<polygon fill="#555555" stroke="#555555" points="1317.1658,-80.0731 1328.053,-81.3842 1321.4474,-82.6554 1325.729,-85.2377 1325.729,-85.2377 1325.729,-85.2377 1321.4474,-82.6554 1323.4049,-89.0911 1317.1658,-80.0731 1317.1658,-80.0731"/>
+</g>
+<!-- Risk_Planning -->
+<g id="node7" class="node">
+<title>Risk_Planning</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1687.5874,-80C1687.5874,-80 1510.4126,-80 1510.4126,-80 1504.4126,-80 1498.4126,-74 1498.4126,-68 1498.4126,-68 1498.4126,-56 1498.4126,-56 1498.4126,-50 1504.4126,-44 1510.4126,-44 1510.4126,-44 1687.5874,-44 1687.5874,-44 1693.5874,-44 1699.5874,-50 1699.5874,-56 1699.5874,-56 1699.5874,-68 1699.5874,-68 1699.5874,-74 1693.5874,-80 1687.5874,-80"/>
+<text text-anchor="middle" x="1599" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#4: Risk-Based Planning Neglect</text>
+<text text-anchor="middle" x="1599" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Security planning without risk assessment</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Risk_Planning -->
+<g id="edge6" class="edge">
+<title>ISSM Overview-&gt;Risk_Planning</title>
+<path fill="none" stroke="#555555" d="M2526.3701,-276.0495C2329.8552,-260.7113 2014.1971,-224.4586 1754,-140.8 1711.6262,-127.176 1666.6456,-103.1055 1636.1177,-85.1415"/>
+<polygon fill="#555555" stroke="#555555" points="1627.5161,-80.0161 1638.4102,-81.2693 1631.8114,-82.5756 1636.1067,-85.135 1636.1067,-85.135 1636.1067,-85.135 1631.8114,-82.5756 1633.8032,-89.0008 1627.5161,-80.0161 1627.5161,-80.0161"/>
+</g>
+<!-- Best_Practices -->
+<g id="node8" class="node">
+<title>Best_Practices</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1952.024,-80C1952.024,-80 1819.976,-80 1819.976,-80 1813.976,-80 1807.976,-74 1807.976,-68 1807.976,-68 1807.976,-56 1807.976,-56 1807.976,-50 1813.976,-44 1819.976,-44 1819.976,-44 1952.024,-44 1952.024,-44 1958.024,-44 1964.024,-50 1964.024,-56 1964.024,-56 1964.024,-68 1964.024,-68 1964.024,-74 1958.024,-80 1952.024,-80"/>
+<text text-anchor="middle" x="1886" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#5: Disregarding Best Practices</text>
+<text text-anchor="middle" x="1886" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Ignoring ISS standards</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Best_Practices -->
+<g id="edge7" class="edge">
+<title>ISSM Overview-&gt;Best_Practices</title>
+<path fill="none" stroke="#555555" d="M2555.6164,-268.7876C2411.6907,-248.8994 2195.383,-210.1069 2018,-140.8 1982.0413,-126.7502 1944.5757,-103.4198 1918.7863,-85.782"/>
+<polygon fill="#555555" stroke="#555555" points="1910.507,-80.0403 1921.2888,-82.0412 1914.6157,-82.8897 1918.7244,-85.7391 1918.7244,-85.7391 1918.7244,-85.7391 1914.6157,-82.8897 1916.16,-89.4369 1910.507,-80.0403 1910.507,-80.0403"/>
+</g>
+<!-- Policy_Overlooked -->
+<g id="node9" class="node">
+<title>Policy_Overlooked</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2219.8574,-80C2219.8574,-80 2084.1426,-80 2084.1426,-80 2078.1426,-80 2072.1426,-74 2072.1426,-68 2072.1426,-68 2072.1426,-56 2072.1426,-56 2072.1426,-50 2078.1426,-44 2084.1426,-44 2084.1426,-44 2219.8574,-44 2219.8574,-44 2225.8574,-44 2231.8574,-50 2231.8574,-56 2231.8574,-56 2231.8574,-68 2231.8574,-68 2231.8574,-74 2225.8574,-80 2219.8574,-80"/>
+<text text-anchor="middle" x="2152" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#6: Policy Necessity Overlooked</text>
+<text text-anchor="middle" x="2152" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Lack of corporate ISS policies</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Policy_Overlooked -->
+<g id="edge8" class="edge">
+<title>ISSM Overview-&gt;Policy_Overlooked</title>
+<path fill="none" stroke="#555555" d="M2647.8727,-268.7828C2562.3867,-244.4737 2409.8048,-197.6048 2286,-140.8 2251.2898,-124.8741 2214.0104,-102.4783 2187.6071,-85.631"/>
+<polygon fill="#555555" stroke="#555555" points="2179.0893,-80.1476 2189.9335,-81.7768 2183.2935,-82.8541 2187.4977,-85.5606 2187.4977,-85.5606 2187.4977,-85.5606 2183.2935,-82.8541 2185.0619,-89.3444 2179.0893,-80.1476 2179.0893,-80.1476"/>
+</g>
+<!-- Compliance -->
+<g id="node10" class="node">
+<title>Compliance</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2504.0805,-80C2504.0805,-80 2351.9195,-80 2351.9195,-80 2345.9195,-80 2339.9195,-74 2339.9195,-68 2339.9195,-68 2339.9195,-56 2339.9195,-56 2339.9195,-50 2345.9195,-44 2351.9195,-44 2351.9195,-44 2504.0805,-44 2504.0805,-44 2510.0805,-44 2516.0805,-50 2516.0805,-56 2516.0805,-56 2516.0805,-68 2516.0805,-68 2516.0805,-74 2510.0805,-80 2504.0805,-80"/>
+<text text-anchor="middle" x="2428" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#7: Lack of Compliance Monitoring</text>
+<text text-anchor="middle" x="2428" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Failing to enforce security measures</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Compliance -->
+<g id="edge9" class="edge">
+<title>ISSM Overview-&gt;Compliance</title>
+<path fill="none" stroke="#555555" d="M2691.0789,-268.7837C2640.038,-228.6648 2516.9684,-131.9304 2459.0817,-86.4306"/>
+<polygon fill="#555555" stroke="#555555" points="2451.0303,-80.1021 2461.6732,-82.7439 2454.9613,-83.192 2458.8923,-86.2818 2458.8923,-86.2818 2458.8923,-86.2818 2454.9613,-83.192 2456.1115,-89.8198 2451.0303,-80.1021 2451.0303,-80.1021"/>
+</g>
+<!-- Governance_Structure -->
+<g id="node11" class="node">
+<title>Governance_Structure</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2791.8714,-80C2791.8714,-80 2636.1286,-80 2636.1286,-80 2630.1286,-80 2624.1286,-74 2624.1286,-68 2624.1286,-68 2624.1286,-56 2624.1286,-56 2624.1286,-50 2630.1286,-44 2636.1286,-44 2636.1286,-44 2791.8714,-44 2791.8714,-44 2797.8714,-44 2803.8714,-50 2803.8714,-56 2803.8714,-56 2803.8714,-68 2803.8714,-68 2803.8714,-74 2797.8714,-80 2791.8714,-80"/>
+<text text-anchor="middle" x="2714" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#8: Governance Structure Deficiency</text>
+<text text-anchor="middle" x="2714" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">No dedicated security governance</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Governance_Structure -->
+<g id="edge10" class="edge">
+<title>ISSM Overview-&gt;Governance_Structure</title>
+<path fill="none" stroke="#555555" d="M2714,-268.7837C2714,-229.7336 2714,-137.0441 2714,-90.1739"/>
+<polygon fill="#555555" stroke="#555555" points="2714,-80.1021 2718.5001,-90.1021 2714,-85.1021 2714.0001,-90.1021 2714.0001,-90.1021 2714.0001,-90.1021 2714,-85.1021 2709.5001,-90.1022 2714,-80.1021 2714,-80.1021"/>
+</g>
+<!-- User_Awareness -->
+<g id="node12" class="node">
+<title>User_Awareness</title>
+<path fill="#f9f9f9" stroke="#555555" d="M3072.7562,-80C3072.7562,-80 2923.2438,-80 2923.2438,-80 2917.2438,-80 2911.2438,-74 2911.2438,-68 2911.2438,-68 2911.2438,-56 2911.2438,-56 2911.2438,-50 2917.2438,-44 2923.2438,-44 2923.2438,-44 3072.7562,-44 3072.7562,-44 3078.7562,-44 3084.7562,-50 3084.7562,-56 3084.7562,-56 3084.7562,-68 3084.7562,-68 3084.7562,-74 3078.7562,-80 3072.7562,-80"/>
+<text text-anchor="middle" x="2998" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#9: User Awareness Neglect</text>
+<text text-anchor="middle" x="2998" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Ignoring importance of user training</text>
+</g>
+<!-- ISSM Overview&#45;&gt;User_Awareness -->
+<g id="edge11" class="edge">
+<title>ISSM Overview-&gt;User_Awareness</title>
+<path fill="none" stroke="#555555" d="M2736.7608,-268.7837C2787.4448,-228.6648 2909.6538,-131.9304 2967.1357,-86.4306"/>
+<polygon fill="#555555" stroke="#555555" points="2975.1308,-80.1021 2970.0828,-89.837 2971.2103,-83.2054 2967.2898,-86.3086 2967.2898,-86.3086 2967.2898,-86.3086 2971.2103,-83.2054 2964.4969,-82.7802 2975.1308,-80.1021 2975.1308,-80.1021"/>
+</g>
+<!-- Underpowered_Security -->
+<g id="node13" class="node">
+<title>Underpowered_Security</title>
+<path fill="#f9f9f9" stroke="#555555" d="M3370.928,-80C3370.928,-80 3205.072,-80 3205.072,-80 3199.072,-80 3193.072,-74 3193.072,-68 3193.072,-68 3193.072,-56 3193.072,-56 3193.072,-50 3199.072,-44 3205.072,-44 3205.072,-44 3370.928,-44 3370.928,-44 3376.928,-44 3382.928,-50 3382.928,-56 3382.928,-56 3382.928,-68 3382.928,-68 3382.928,-74 3376.928,-80 3370.928,-80"/>
+<text text-anchor="middle" x="3288" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">#10: Underpowered Security Managers</text>
+<text text-anchor="middle" x="3288" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Lacking tools, infrastructure</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Underpowered_Security -->
+<g id="edge12" class="edge">
+<title>ISSM Overview-&gt;Underpowered_Security</title>
+<path fill="none" stroke="#555555" d="M2776.3723,-268.7104C2860.2426,-243.6364 3013.3561,-195.2122 3139,-140.8 3177.2066,-124.254 3218.9697,-101.7589 3248.534,-85.0386"/>
+<polygon fill="#555555" stroke="#555555" points="3257.3,-80.0479 3250.8361,-88.9061 3252.9548,-82.5217 3248.6097,-84.9955 3248.6097,-84.9955 3248.6097,-84.9955 3252.9548,-82.5217 3246.3832,-81.0849 3257.3,-80.0479 3257.3,-80.0479"/>
+</g>
+<!-- Goal -->
+<g id="node14" class="node">
+<title>Goal</title>
+<path fill="#f9f9f9" stroke="#555555" d="M3702.8071,-80C3702.8071,-80 3503.1929,-80 3503.1929,-80 3497.1929,-80 3491.1929,-74 3491.1929,-68 3491.1929,-68 3491.1929,-56 3491.1929,-56 3491.1929,-50 3497.1929,-44 3503.1929,-44 3503.1929,-44 3702.8071,-44 3702.8071,-44 3708.8071,-44 3714.8071,-50 3714.8071,-56 3714.8071,-56 3714.8071,-68 3714.8071,-68 3714.8071,-74 3708.8071,-80 3702.8071,-80"/>
+<text text-anchor="middle" x="3603" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Goal</text>
+<text text-anchor="middle" x="3603" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Create structures ensuring information integrity</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Goal -->
+<g id="edge13" class="edge">
+<title>ISSM Overview-&gt;Goal</title>
+<path fill="none" stroke="#555555" d="M2837.6562,-268.7763C2979.7403,-246.3235 3218.929,-203.1615 3418,-140.8 3466.7769,-125.52 3520.2749,-101.942 3557.1382,-84.5561"/>
+<polygon fill="#555555" stroke="#555555" points="3566.6069,-80.0538 3559.5082,-88.412 3562.0914,-82.2009 3557.5758,-84.348 3557.5758,-84.348 3557.5758,-84.348 3562.0914,-82.2009 3555.6435,-80.284 3566.6069,-80.0538 3566.6069,-80.0538"/>
+<text text-anchor="middle" x="3320.6203" y="-184.2" font-family="Times,serif" font-size="14.00" fill="#000000">Management Goals</text>
+</g>
+<!-- Strategy_Policy -->
+<g id="node15" class="node">
+<title>Strategy_Policy</title>
+<path fill="#f9f9f9" stroke="#555555" d="M4018.7132,-80C4018.7132,-80 3835.2868,-80 3835.2868,-80 3829.2868,-80 3823.2868,-74 3823.2868,-68 3823.2868,-68 3823.2868,-56 3823.2868,-56 3823.2868,-50 3829.2868,-44 3835.2868,-44 3835.2868,-44 4018.7132,-44 4018.7132,-44 4024.7132,-44 4030.7132,-50 4030.7132,-56 4030.7132,-56 4030.7132,-68 4030.7132,-68 4030.7132,-74 4024.7132,-80 4018.7132,-80"/>
+<text text-anchor="middle" x="3927" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ISS Strategy and Policy</text>
+<text text-anchor="middle" x="3927" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Developing effective strategies and policies</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Strategy_Policy -->
+<g id="edge14" class="edge">
+<title>ISSM Overview-&gt;Strategy_Policy</title>
+<path fill="none" stroke="#555555" d="M2901.6273,-279.9427C3115.9137,-267.7703 3474.8688,-234.0552 3769,-140.8 3812.0825,-127.1405 3857.9506,-103.0755 3889.1038,-85.1224"/>
+<polygon fill="#555555" stroke="#555555" points="3897.8825,-80.0004 3891.513,-88.9268 3893.5638,-82.5202 3889.2451,-85.04 3889.2451,-85.04 3889.2451,-85.04 3893.5638,-82.5202 3886.9773,-81.1532 3897.8825,-80.0004 3897.8825,-80.0004"/>
+</g>
+<!-- Responsibility_Structure -->
+<g id="node16" class="node">
+<title>Responsibility_Structure</title>
+<path fill="#f9f9f9" stroke="#555555" d="M4253.01,-80C4253.01,-80 4150.99,-80 4150.99,-80 4144.99,-80 4138.99,-74 4138.99,-68 4138.99,-68 4138.99,-56 4138.99,-56 4138.99,-50 4144.99,-44 4150.99,-44 4150.99,-44 4253.01,-44 4253.01,-44 4259.01,-44 4265.01,-50 4265.01,-56 4265.01,-56 4265.01,-68 4265.01,-68 4265.01,-74 4259.01,-80 4253.01,-80"/>
+<text text-anchor="middle" x="4202" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Responsibility Structures</text>
+<text text-anchor="middle" x="4202" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Clear roles and authority</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Responsibility_Structure -->
+<g id="edge15" class="edge">
+<title>ISSM Overview-&gt;Responsibility_Structure</title>
+<path fill="none" stroke="#555555" d="M2901.5159,-278.6224C3224.9025,-262.5693 3873.1978,-221.2753 4085,-140.8 4118.2343,-128.1724 4151.4003,-104.5262 4173.888,-86.419"/>
+<polygon fill="#555555" stroke="#555555" points="4181.6702,-80.0291 4176.7972,-89.8528 4177.8059,-83.2021 4173.9416,-86.375 4173.9416,-86.375 4173.9416,-86.375 4177.8059,-83.2021 4171.086,-82.8971 4181.6702,-80.0291 4181.6702,-80.0291"/>
+</g>
+<!-- Business_Processes -->
+<g id="node17" class="node">
+<title>Business_Processes</title>
+<path fill="#f9f9f9" stroke="#555555" d="M4593.145,-80C4593.145,-80 4384.855,-80 4384.855,-80 4378.855,-80 4372.855,-74 4372.855,-68 4372.855,-68 4372.855,-56 4372.855,-56 4372.855,-50 4378.855,-44 4384.855,-44 4384.855,-44 4593.145,-44 4593.145,-44 4599.145,-44 4605.145,-50 4605.145,-56 4605.145,-56 4605.145,-68 4605.145,-68 4605.145,-74 4599.145,-80 4593.145,-80"/>
+<text text-anchor="middle" x="4489" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Business Processes</text>
+<text text-anchor="middle" x="4489" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Aligning information flows with secure operations</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Business_Processes -->
+<g id="edge16" class="edge">
+<title>ISSM Overview-&gt;Business_Processes</title>
+<path fill="none" stroke="#555555" d="M2901.4362,-278.7062C3148.1679,-266.8436 3595.1393,-241.1831 3975,-196.8 4128.8549,-178.8235 4170.9126,-186.2377 4319,-140.8 4364.7671,-126.7572 4414.0937,-102.8192 4447.763,-85.0033"/>
+<polygon fill="#555555" stroke="#555555" points="4456.8283,-80.1539 4450.1333,-88.8388 4452.4195,-82.5124 4448.0107,-84.8708 4448.0107,-84.8708 4448.0107,-84.8708 4452.4195,-82.5124 4445.888,-80.9029 4456.8283,-80.1539 4456.8283,-80.1539"/>
+</g>
+<!-- Roles_Competencies -->
+<g id="node18" class="node">
+<title>Roles_Competencies</title>
+<path fill="#f9f9f9" stroke="#555555" d="M4833.1884,-80C4833.1884,-80 4724.8116,-80 4724.8116,-80 4718.8116,-80 4712.8116,-74 4712.8116,-68 4712.8116,-68 4712.8116,-56 4712.8116,-56 4712.8116,-50 4718.8116,-44 4724.8116,-44 4724.8116,-44 4833.1884,-44 4833.1884,-44 4839.1884,-44 4845.1884,-50 4845.1884,-56 4845.1884,-56 4845.1884,-68 4845.1884,-68 4845.1884,-74 4839.1884,-80 4833.1884,-80"/>
+<text text-anchor="middle" x="4779" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Roles and Competencies</text>
+<text text-anchor="middle" x="4779" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Ensuring skilled personnel</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Roles_Competencies -->
+<g id="edge17" class="edge">
+<title>ISSM Overview-&gt;Roles_Competencies</title>
+<path fill="none" stroke="#555555" d="M2901.3648,-277.5879C3173.8427,-263.5942 3695.2682,-234.5661 4138,-196.8 4370.0466,-177.0059 4439.7597,-219.3566 4659,-140.8 4693.0615,-128.5953 4727.0812,-104.8924 4750.1531,-86.6567"/>
+<polygon fill="#555555" stroke="#555555" points="4758.1378,-80.2171 4753.1788,-89.9977 4754.2458,-83.356 4750.3538,-86.4949 4750.3538,-86.4949 4750.3538,-86.4949 4754.2458,-83.356 4747.5288,-82.9921 4758.1378,-80.2171 4758.1378,-80.2171"/>
+</g>
+<!-- Specification_Methods -->
+<g id="node19" class="node">
+<title>Specification_Methods</title>
+<path fill="#f9f9f9" stroke="#555555" d="M5089.2442,-90C5089.2442,-90 4964.7558,-90 4964.7558,-90 4958.7558,-90 4952.7558,-84 4952.7558,-78 4952.7558,-78 4952.7558,-46 4952.7558,-46 4952.7558,-40 4958.7558,-34 4964.7558,-34 4964.7558,-34 5089.2442,-34 5089.2442,-34 5095.2442,-34 5101.2442,-40 5101.2442,-46 5101.2442,-46 5101.2442,-78 5101.2442,-78 5101.2442,-84 5095.2442,-90 5089.2442,-90"/>
+<text text-anchor="middle" x="5027" y="-77" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Specification of Responsibility</text>
+<text text-anchor="middle" x="5027" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Speech Act Theory</text>
+<text text-anchor="middle" x="5027" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Semantic Analysis</text>
+<text text-anchor="middle" x="5027" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Agency Theory</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Specification_Methods -->
+<g id="edge18" class="edge">
+<title>ISSM Overview-&gt;Specification_Methods</title>
+<path fill="none" stroke="#555555" d="M2901.2259,-280.8094C3213.6689,-269.924 3860.9791,-243.5864 4407,-196.8 4617.9176,-178.7273 4678.0771,-204.3609 4880,-140.8 4913.7707,-130.1697 4948.8151,-111.7187 4976.2132,-95.3422"/>
+<polygon fill="#555555" stroke="#555555" points="4984.8287,-90.1106 4978.6168,-99.1474 4980.5549,-92.7058 4976.2811,-95.301 4976.2811,-95.301 4976.2811,-95.301 4980.5549,-92.7058 4973.9455,-91.4546 4984.8287,-90.1106 4984.8287,-90.1106"/>
+<text text-anchor="middle" x="4731.3794" y="-184.2" font-family="Times,serif" font-size="14.00" fill="#000000">Structures</text>
+</g>
+<!-- Guidelines -->
+<g id="node20" class="node">
+<title>Guidelines</title>
+<path fill="#f9f9f9" stroke="#555555" d="M5353.0766,-96C5353.0766,-96 5220.9234,-96 5220.9234,-96 5214.9234,-96 5208.9234,-90 5208.9234,-84 5208.9234,-84 5208.9234,-40 5208.9234,-40 5208.9234,-34 5214.9234,-28 5220.9234,-28 5220.9234,-28 5353.0766,-28 5353.0766,-28 5359.0766,-28 5365.0766,-34 5365.0766,-40 5365.0766,-40 5365.0766,-84 5365.0766,-84 5365.0766,-90 5359.0766,-96 5353.0766,-96"/>
+<text text-anchor="middle" x="5287" y="-83" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Guidelines</text>
+<text text-anchor="middle" x="5287" y="-71" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Standards of Conduct</text>
+<text text-anchor="middle" x="5287" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Employee Monitoring</text>
+<text text-anchor="middle" x="5287" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Risk Management Procedures</text>
+<text text-anchor="middle" x="5287" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Training and Accountability</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Guidelines -->
+<g id="edge19" class="edge">
+<title>ISSM Overview-&gt;Guidelines</title>
+<path fill="none" stroke="#555555" d="M2901.3526,-285.4104C3265.5017,-281.2179 4093.9082,-264.3827 4787,-196.8 4951.6575,-180.7444 4999.2877,-196.6887 5155,-140.8 5181.6184,-131.2461 5208.8164,-116.1006 5231.5537,-101.6293"/>
+<polygon fill="#555555" stroke="#555555" points="5240.0391,-96.1291 5234.0954,-105.3445 5235.8434,-98.8487 5231.6477,-101.5684 5231.6477,-101.5684 5231.6477,-101.5684 5235.8434,-98.8487 5229.2001,-97.7923 5240.0391,-96.1291 5240.0391,-96.1291"/>
+</g>
+</g>
+</svg>

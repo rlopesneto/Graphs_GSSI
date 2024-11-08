@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6194pt" height="419pt" viewBox="0.00 0.00 6194.00 419.20">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 415.2)">
+<title>ISSM</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-415.2 6190,-415.2 6190,4 -4,4"/>
+<g id="clust1" class="cluster">
+<title>cluster_overview</title>
+<polygon fill="#d3e9ff" stroke="#000000" points="3116,-296.8 3116,-403.2 3418,-403.2 3418,-296.8 3116,-296.8"/>
+<text text-anchor="middle" x="3267" y="-386.6" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">ISSM Overview</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_intro</title>
+<polygon fill="#e6f7d9" stroke="#000000" points="8,-36 8,-112.8 1194,-112.8 1194,-36 8,-36"/>
+<text text-anchor="middle" x="601" y="-96.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 1: Introduction to ISS</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_cases</title>
+<polygon fill="#ffd7d7" stroke="#000000" points="1286,-36 1286,-112.8 2910,-112.8 2910,-36 1286,-36"/>
+<text text-anchor="middle" x="2098" y="-96.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 2: Context &amp; ISS Cases</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_fundamentals</title>
+<polygon fill="#ffe9c6" stroke="#000000" points="3002,-14 3002,-134.8 4430,-134.8 4430,-14 3002,-14"/>
+<text text-anchor="middle" x="3716" y="-118.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 3: Fundamentals of ISS</text>
+</g>
+<g id="clust5" class="cluster">
+<title>cluster_management</title>
+<polygon fill="#d9f0ff" stroke="#000000" points="4523,-8 4523,-140.8 5696,-140.8 5696,-8 4523,-8"/>
+<text text-anchor="middle" x="5109.5" y="-124.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 4: ISS Management</text>
+</g>
+<g id="clust6" class="cluster">
+<title>cluster_issues</title>
+<polygon fill="#f9d7f7" stroke="#000000" points="5788,-8 5788,-140.8 6178,-140.8 6178,-8 5788,-8"/>
+<text text-anchor="middle" x="5983" y="-124.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 5: Key Issues in ISS Management</text>
+</g>
+<!-- ISSM Overview -->
+<g id="node1" class="node">
+<title>ISSM Overview</title>
+<path fill="#f9f9f9" stroke="transparent" d="M3398.0348,-370.2012C3398.0348,-370.2012 3135.9652,-370.2012 3135.9652,-370.2012 3129.9652,-370.2012 3123.9652,-364.2012 3123.9652,-358.2012 3123.9652,-358.2012 3123.9652,-316.9988 3123.9652,-316.9988 3123.9652,-310.9988 3129.9652,-304.9988 3135.9652,-304.9988 3135.9652,-304.9988 3398.0348,-304.9988 3398.0348,-304.9988 3404.0348,-304.9988 3410.0348,-310.9988 3410.0348,-316.9988 3410.0348,-316.9988 3410.0348,-358.2012 3410.0348,-358.2012 3410.0348,-364.2012 3404.0348,-370.2012 3398.0348,-370.2012"/>
+<text text-anchor="middle" x="3267" y="-355.6" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#333333">Information Systems Security Management (ISSM)</text>
+<text text-anchor="middle" x="3267" y="-341.2" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#333333">- Threats</text>
+<text text-anchor="middle" x="3267" y="-326.8" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#333333">- Security Principles</text>
+<text text-anchor="middle" x="3267" y="-312.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#333333">- Management Strategies</text>
+</g>
+<!-- Intro_State -->
+<g id="node2" class="node">
+<title>Intro_State</title>
+<path fill="#f9f9f9" stroke="#555555" d="M220.0914,-80C220.0914,-80 27.9086,-80 27.9086,-80 21.9086,-80 15.9086,-74 15.9086,-68 15.9086,-68 15.9086,-56 15.9086,-56 15.9086,-50 21.9086,-44 27.9086,-44 27.9086,-44 220.0914,-44 220.0914,-44 226.0914,-44 232.0914,-50 232.0914,-56 232.0914,-56 232.0914,-68 232.0914,-68 232.0914,-74 226.0914,-80 220.0914,-80"/>
+<text text-anchor="middle" x="124" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ISS as State</text>
+<text text-anchor="middle" x="124" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Represents stable, resilient security condition</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Intro_State -->
+<g id="edge1" class="edge">
+<title>ISSM Overview-&gt;Intro_State</title>
+<path fill="none" stroke="#555555" d="M3123.8063,-334.5492C2747.8378,-325.6343 1701.7868,-294.9989 834.7924,-214.8 589.7235,-192.1306 521.5992,-211.9736 286,-140.8 241.8557,-127.4642 194.8221,-103.35 162.8712,-85.297"/>
+<polygon fill="#555555" stroke="#555555" points="153.8676,-80.1442 164.782,-81.2057 158.2072,-82.6278 162.5468,-85.1114 162.5468,-85.1114 162.5468,-85.1114 158.2072,-82.6278 160.3116,-89.017 153.8676,-80.1442 153.8676,-80.1442"/>
+<text text-anchor="middle" x="869.6038" y="-202.2" font-family="Times,serif" font-size="14.00" fill="#000000">Introduction</text>
+</g>
+<!-- Intro_Means -->
+<g id="node3" class="node">
+<title>Intro_Means</title>
+<path fill="#f9f9f9" stroke="#555555" d="M545.629,-80C545.629,-80 352.371,-80 352.371,-80 346.371,-80 340.371,-74 340.371,-68 340.371,-68 340.371,-56 340.371,-56 340.371,-50 346.371,-44 352.371,-44 352.371,-44 545.629,-44 545.629,-44 551.629,-44 557.629,-50 557.629,-56 557.629,-56 557.629,-68 557.629,-68 557.629,-74 551.629,-80 545.629,-80"/>
+<text text-anchor="middle" x="449" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ISS as Means</text>
+<text text-anchor="middle" x="449" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Tools and resources (e.g., firewalls, antivirus)</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Intro_Means -->
+<g id="edge2" class="edge">
+<title>ISSM Overview-&gt;Intro_Means</title>
+<path fill="none" stroke="#555555" d="M3123.8592,-331.4896C2794.0455,-316.8353 1955.2717,-276.2815 1256,-214.8 969.0016,-189.5664 888.697,-221.0719 612,-140.8 567.3528,-127.8475 519.8883,-103.5595 487.764,-85.3571"/>
+<polygon fill="#555555" stroke="#555555" points="478.7167,-80.1613 489.6295,-81.2392 483.0526,-82.6514 487.3885,-85.1415 487.3885,-85.1415 487.3885,-85.1415 483.0526,-82.6514 485.1474,-89.0437 478.7167,-80.1613 478.7167,-80.1613"/>
+</g>
+<!-- Intro_Process -->
+<g id="node4" class="node">
+<title>Intro_Process</title>
+<path fill="#f9f9f9" stroke="#555555" d="M878.3813,-80C878.3813,-80 677.6187,-80 677.6187,-80 671.6187,-80 665.6187,-74 665.6187,-68 665.6187,-68 665.6187,-56 665.6187,-56 665.6187,-50 671.6187,-44 677.6187,-44 677.6187,-44 878.3813,-44 878.3813,-44 884.3813,-44 890.3813,-50 890.3813,-56 890.3813,-56 890.3813,-68 890.3813,-68 890.3813,-74 884.3813,-80 878.3813,-80"/>
+<text text-anchor="middle" x="778" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ISS as Process</text>
+<text text-anchor="middle" x="778" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Ongoing actions to protect information systems</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Intro_Process -->
+<g id="edge3" class="edge">
+<title>ISSM Overview-&gt;Intro_Process</title>
+<path fill="none" stroke="#555555" d="M3123.9192,-329.5344C2830.9871,-312.5237 2141.9168,-269.9557 1565,-214.8 1288.309,-188.3472 1211.0584,-217.855 944,-140.8 898.472,-127.6637 849.8922,-103.2432 817.129,-85.0553"/>
+<polygon fill="#555555" stroke="#555555" points="808.3232,-80.1052 819.2454,-81.0828 812.6818,-82.5553 817.0403,-85.0055 817.0403,-85.0055 817.0403,-85.0055 812.6818,-82.5553 814.8352,-88.9282 808.3232,-80.1052 808.3232,-80.1052"/>
+</g>
+<!-- Intro_Knowledge -->
+<g id="node5" class="node">
+<title>Intro_Knowledge</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1174.2762,-80C1174.2762,-80 1009.7238,-80 1009.7238,-80 1003.7238,-80 997.7238,-74 997.7238,-68 997.7238,-68 997.7238,-56 997.7238,-56 997.7238,-50 1003.7238,-44 1009.7238,-44 1009.7238,-44 1174.2762,-44 1174.2762,-44 1180.2762,-44 1186.2762,-50 1186.2762,-56 1186.2762,-56 1186.2762,-68 1186.2762,-68 1186.2762,-74 1180.2762,-80 1174.2762,-80"/>
+<text text-anchor="middle" x="1092" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ISS as Knowledge Area</text>
+<text text-anchor="middle" x="1092" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Field of study, research, and education</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Intro_Knowledge -->
+<g id="edge4" class="edge">
+<title>ISSM Overview-&gt;Intro_Knowledge</title>
+<path fill="none" stroke="#555555" d="M3123.8557,-328.1207C2861.1239,-310.1655 2284.4248,-268.1688 1800,-214.8 1558.7761,-188.2245 1491.6599,-209.826 1259,-140.8 1213.4889,-127.2977 1164.7527,-103.0506 1131.7495,-85.0066"/>
+<polygon fill="#555555" stroke="#555555" points="1122.8739,-80.0959 1133.8025,-80.9997 1127.2489,-82.5165 1131.6239,-84.9372 1131.6239,-84.9372 1131.6239,-84.9372 1127.2489,-82.5165 1129.4453,-88.8747 1122.8739,-80.0959 1122.8739,-80.0959"/>
+</g>
+<!-- Therac_Case -->
+<g id="node6" class="node">
+<title>Therac_Case</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1476.3553,-80C1476.3553,-80 1305.6447,-80 1305.6447,-80 1299.6447,-80 1293.6447,-74 1293.6447,-68 1293.6447,-68 1293.6447,-56 1293.6447,-56 1293.6447,-50 1299.6447,-44 1305.6447,-44 1305.6447,-44 1476.3553,-44 1476.3553,-44 1482.3553,-44 1488.3553,-50 1488.3553,-56 1488.3553,-56 1488.3553,-68 1488.3553,-68 1488.3553,-74 1482.3553,-80 1476.3553,-80"/>
+<text text-anchor="middle" x="1391" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Therac-25 Case</text>
+<text text-anchor="middle" x="1391" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Radiation overdoses from software error</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Therac_Case -->
+<g id="edge5" class="edge">
+<title>ISSM Overview-&gt;Therac_Case</title>
+<path fill="none" stroke="#555555" d="M3123.7933,-327.3464C2885.7761,-309.5402 2393.9645,-269.5016 1980.122,-214.8 1784.7804,-188.9798 1729.852,-203.3409 1543,-140.8 1501.7453,-126.9917 1457.9799,-103.2157 1428.0592,-85.3828"/>
+<polygon fill="#555555" stroke="#555555" points="1419.236,-80.0569 1430.1227,-81.3722 1423.5166,-82.6408 1427.7972,-85.2247 1427.7972,-85.2247 1427.7972,-85.2247 1423.5166,-82.6408 1425.4716,-89.0773 1419.236,-80.0569 1419.236,-80.0569"/>
+<text text-anchor="middle" x="2028.439" y="-202.2" font-family="Times,serif" font-size="14.00" fill="#000000">Context &amp; Cases</text>
+</g>
+<!-- Internet_Worm -->
+<g id="node7" class="node">
+<title>Internet_Worm</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1769.415,-80C1769.415,-80 1608.585,-80 1608.585,-80 1602.585,-80 1596.585,-74 1596.585,-68 1596.585,-68 1596.585,-56 1596.585,-56 1596.585,-50 1602.585,-44 1608.585,-44 1608.585,-44 1769.415,-44 1769.415,-44 1775.415,-44 1781.415,-50 1781.415,-56 1781.415,-56 1781.415,-68 1781.415,-68 1781.415,-74 1775.415,-80 1769.415,-80"/>
+<text text-anchor="middle" x="1689" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Internet Worm (1988)</text>
+<text text-anchor="middle" x="1689" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Network disruption due to vulnerability</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Internet_Worm -->
+<g id="edge6" class="edge">
+<title>ISSM Overview-&gt;Internet_Worm</title>
+<path fill="none" stroke="#555555" d="M3123.9525,-324.6001C2810.8137,-295.0635 2073.6608,-219.3512 1836,-140.8 1795.636,-127.459 1753.2221,-103.5035 1724.3846,-85.4957"/>
+<polygon fill="#555555" stroke="#555555" points="1715.8882,-80.1164 1726.7444,-81.6637 1720.1127,-82.791 1724.3372,-85.4657 1724.3372,-85.4657 1724.3372,-85.4657 1720.1127,-82.791 1721.93,-89.2678 1715.8882,-80.1164 1715.8882,-80.1164"/>
+</g>
+<!-- Patriot_Failure -->
+<g id="node8" class="node">
+<title>Patriot_Failure</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2092.3613,-80C2092.3613,-80 1901.6387,-80 1901.6387,-80 1895.6387,-80 1889.6387,-74 1889.6387,-68 1889.6387,-68 1889.6387,-56 1889.6387,-56 1889.6387,-50 1895.6387,-44 1901.6387,-44 1901.6387,-44 2092.3613,-44 2092.3613,-44 2098.3613,-44 2104.3613,-50 2104.3613,-56 2104.3613,-56 2104.3613,-68 2104.3613,-68 2104.3613,-74 2098.3613,-80 2092.3613,-80"/>
+<text text-anchor="middle" x="1997" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Patriot Missile Failure</text>
+<text text-anchor="middle" x="1997" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Gulf War miscalculation leading to casualties</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Patriot_Failure -->
+<g id="edge7" class="edge">
+<title>ISSM Overview-&gt;Patriot_Failure</title>
+<path fill="none" stroke="#555555" d="M3123.8539,-325.0924C2909.5344,-303.5077 2494.4741,-250.5876 2158,-140.8 2114.648,-126.6547 2068.1748,-102.8846 2036.3576,-85.1429"/>
+<polygon fill="#555555" stroke="#555555" points="2027.3808,-80.0801 2038.3017,-81.073 2031.736,-82.5364 2036.0911,-84.9926 2036.0911,-84.9926 2036.0911,-84.9926 2031.736,-82.5364 2033.8805,-88.9122 2027.3808,-80.0801 2027.3808,-80.0801"/>
+</g>
+<!-- Barings_Collapse -->
+<g id="node9" class="node">
+<title>Barings_Collapse</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2376.0895,-80C2376.0895,-80 2223.9105,-80 2223.9105,-80 2217.9105,-80 2211.9105,-74 2211.9105,-68 2211.9105,-68 2211.9105,-56 2211.9105,-56 2211.9105,-50 2217.9105,-44 2223.9105,-44 2223.9105,-44 2376.0895,-44 2376.0895,-44 2382.0895,-44 2388.0895,-50 2388.0895,-56 2388.0895,-56 2388.0895,-68 2388.0895,-68 2388.0895,-74 2382.0895,-80 2376.0895,-80"/>
+<text text-anchor="middle" x="2300" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Barings Bank Collapse</text>
+<text text-anchor="middle" x="2300" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Financial loss due to lack of controls</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Barings_Collapse -->
+<g id="edge8" class="edge">
+<title>ISSM Overview-&gt;Barings_Collapse</title>
+<path fill="none" stroke="#555555" d="M3123.6849,-315.6304C2956.2573,-287.2021 2672.7722,-230.4128 2442,-140.8 2404.055,-126.0653 2363.7453,-102.8875 2335.8067,-85.4762"/>
+<polygon fill="#555555" stroke="#555555" points="2327.1892,-80.0439 2338.0484,-81.5698 2331.4189,-82.7102 2335.6486,-85.3766 2335.6486,-85.3766 2335.6486,-85.3766 2331.4189,-82.7102 2333.2489,-89.1834 2327.1892,-80.0439 2327.1892,-80.0439"/>
+</g>
+<!-- Yahoo_Breach -->
+<g id="node10" class="node">
+<title>Yahoo_Breach</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2639.9657,-80C2639.9657,-80 2508.0343,-80 2508.0343,-80 2502.0343,-80 2496.0343,-74 2496.0343,-68 2496.0343,-68 2496.0343,-56 2496.0343,-56 2496.0343,-50 2502.0343,-44 2508.0343,-44 2508.0343,-44 2639.9657,-44 2639.9657,-44 2645.9657,-44 2651.9657,-50 2651.9657,-56 2651.9657,-56 2651.9657,-68 2651.9657,-68 2651.9657,-74 2645.9657,-80 2639.9657,-80"/>
+<text text-anchor="middle" x="2574" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Yahoo Breach (2013-2014)</text>
+<text text-anchor="middle" x="2574" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">3 billion accounts compromised</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Yahoo_Breach -->
+<g id="edge9" class="edge">
+<title>ISSM Overview-&gt;Yahoo_Breach</title>
+<path fill="none" stroke="#555555" d="M3152.8657,-304.9483C3037.6016,-270.2758 2855.6861,-210.8654 2706,-140.8 2671.9036,-124.8401 2635.3065,-102.5445 2609.3159,-85.7405"/>
+<polygon fill="#555555" stroke="#555555" points="2600.9273,-80.2693 2611.7616,-81.9631 2605.1153,-83.0008 2609.3033,-85.7323 2609.3033,-85.7323 2609.3033,-85.7323 2605.1153,-83.0008 2606.845,-89.5015 2600.9273,-80.2693 2600.9273,-80.2693"/>
+</g>
+<!-- Marriott_Breach -->
+<g id="node11" class="node">
+<title>Marriott_Breach</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2889.5746,-80C2889.5746,-80 2772.4254,-80 2772.4254,-80 2766.4254,-80 2760.4254,-74 2760.4254,-68 2760.4254,-68 2760.4254,-56 2760.4254,-56 2760.4254,-50 2766.4254,-44 2772.4254,-44 2772.4254,-44 2889.5746,-44 2889.5746,-44 2895.5746,-44 2901.5746,-50 2901.5746,-56 2901.5746,-56 2901.5746,-68 2901.5746,-68 2901.5746,-74 2895.5746,-80 2889.5746,-80"/>
+<text text-anchor="middle" x="2831" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Marriott Breach (2014-2018)</text>
+<text text-anchor="middle" x="2831" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">500 million records exposed</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Marriott_Breach -->
+<g id="edge10" class="edge">
+<title>ISSM Overview-&gt;Marriott_Breach</title>
+<path fill="none" stroke="#555555" d="M3215.2729,-304.9028C3126.2212,-248.6123 2946.0328,-134.7134 2868.1972,-85.5127"/>
+<polygon fill="#555555" stroke="#555555" points="2859.6651,-80.1195 2870.5224,-81.6589 2863.8915,-82.7911 2868.118,-85.4627 2868.118,-85.4627 2868.118,-85.4627 2863.8915,-82.7911 2865.7135,-89.2665 2859.6651,-80.1195 2859.6651,-80.1195"/>
+</g>
+<!-- Evolution_IT -->
+<g id="node12" class="node">
+<title>Evolution_IT</title>
+<path fill="#f9f9f9" stroke="#555555" d="M3222.423,-80C3222.423,-80 3021.577,-80 3021.577,-80 3015.577,-80 3009.577,-74 3009.577,-68 3009.577,-68 3009.577,-56 3009.577,-56 3009.577,-50 3015.577,-44 3021.577,-44 3021.577,-44 3222.423,-44 3222.423,-44 3228.423,-44 3234.423,-50 3234.423,-56 3234.423,-56 3234.423,-68 3234.423,-68 3234.423,-74 3228.423,-80 3222.423,-80"/>
+<text text-anchor="middle" x="3122" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Evolution of IT</text>
+<text text-anchor="middle" x="3122" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">From isolated systems to networked computing</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Evolution_IT -->
+<g id="edge11" class="edge">
+<title>ISSM Overview-&gt;Evolution_IT</title>
+<path fill="none" stroke="#555555" d="M3249.7972,-304.9028C3220.9022,-249.9825 3163.1556,-140.2241 3136.3204,-89.2187"/>
+<polygon fill="#555555" stroke="#555555" points="3131.5331,-80.1195 3140.1718,-86.8741 3133.8612,-84.5444 3136.1893,-88.9694 3136.1893,-88.9694 3136.1893,-88.9694 3133.8612,-84.5444 3132.2069,-91.0647 3131.5331,-80.1195 3131.5331,-80.1195"/>
+<text text-anchor="middle" x="3237.2714" y="-202.2" font-family="Times,serif" font-size="14.00" fill="#000000">Fundamentals</text>
+</g>
+<!-- Org_Perspectives -->
+<g id="node13" class="node">
+<title>Org_Perspectives</title>
+<path fill="#f9f9f9" stroke="#555555" d="M3471.4688,-102C3471.4688,-102 3354.5312,-102 3354.5312,-102 3348.5312,-102 3342.5312,-96 3342.5312,-90 3342.5312,-90 3342.5312,-34 3342.5312,-34 3342.5312,-28 3348.5312,-22 3354.5312,-22 3354.5312,-22 3471.4688,-22 3471.4688,-22 3477.4688,-22 3483.4688,-28 3483.4688,-34 3483.4688,-34 3483.4688,-90 3483.4688,-90 3483.4688,-96 3477.4688,-102 3471.4688,-102"/>
+<text text-anchor="middle" x="3413" y="-89" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Organizational Perspectives</text>
+<text text-anchor="middle" x="3413" y="-77" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Morgan’s Metaphors:</text>
+<text text-anchor="middle" x="3413" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Machines</text>
+<text text-anchor="middle" x="3413" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Organisms</text>
+<text text-anchor="middle" x="3413" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Brains</text>
+<text text-anchor="middle" x="3413" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Political Systems</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Org_Perspectives -->
+<g id="edge12" class="edge">
+<title>ISSM Overview-&gt;Org_Perspectives</title>
+<path fill="none" stroke="#555555" d="M3284.3214,-304.9028C3309.7223,-256.9544 3357.2662,-167.2071 3386.9088,-111.2515"/>
+<polygon fill="#555555" stroke="#555555" points="3391.6861,-102.2336 3390.9813,-113.1768 3389.3455,-106.6519 3387.0048,-111.0703 3387.0048,-111.0703 3387.0048,-111.0703 3389.3455,-106.6519 3383.0283,-108.9637 3391.6861,-102.2336 3391.6861,-102.2336"/>
+</g>
+<!-- Def_Organization -->
+<g id="node14" class="node">
+<title>Def_Organization</title>
+<path fill="#f9f9f9" stroke="#555555" d="M3768.3161,-80C3768.3161,-80 3603.6839,-80 3603.6839,-80 3597.6839,-80 3591.6839,-74 3591.6839,-68 3591.6839,-68 3591.6839,-56 3591.6839,-56 3591.6839,-50 3597.6839,-44 3603.6839,-44 3603.6839,-44 3768.3161,-44 3768.3161,-44 3774.3161,-44 3780.3161,-50 3780.3161,-56 3780.3161,-56 3780.3161,-68 3780.3161,-68 3780.3161,-74 3774.3161,-80 3768.3161,-80"/>
+<text text-anchor="middle" x="3686" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Definition: Organization</text>
+<text text-anchor="middle" x="3686" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Social structure for coordinated actions</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Def_Organization -->
+<g id="edge13" class="edge">
+<title>ISSM Overview-&gt;Def_Organization</title>
+<path fill="none" stroke="#555555" d="M3316.7102,-304.9028C3402.1161,-248.7265 3574.7503,-135.1752 3649.7968,-85.8129"/>
+<polygon fill="#555555" stroke="#555555" points="3658.4526,-80.1195 3652.5708,-89.3745 3654.2752,-82.8672 3650.0979,-85.6149 3650.0979,-85.6149 3650.0979,-85.6149 3654.2752,-82.8672 3647.6249,-81.8553 3658.4526,-80.1195 3658.4526,-80.1195"/>
+</g>
+<!-- Def_IS -->
+<g id="node15" class="node">
+<title>Def_IS</title>
+<path fill="#f9f9f9" stroke="#555555" d="M4157.568,-80C4157.568,-80 3900.432,-80 3900.432,-80 3894.432,-80 3888.432,-74 3888.432,-68 3888.432,-68 3888.432,-56 3888.432,-56 3888.432,-50 3894.432,-44 3900.432,-44 3900.432,-44 4157.568,-44 4157.568,-44 4163.568,-44 4169.568,-50 4169.568,-56 4169.568,-56 4169.568,-68 4169.568,-68 4169.568,-74 4163.568,-80 4157.568,-80"/>
+<text text-anchor="middle" x="4029" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Definition: Information System (IS)</text>
+<text text-anchor="middle" x="4029" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Supports organizational goals through information synthesis</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Def_IS -->
+<g id="edge14" class="edge">
+<title>ISSM Overview-&gt;Def_IS</title>
+<path fill="none" stroke="#555555" d="M3365.8693,-304.9516C3479.4355,-267.0646 3671.0858,-201.9464 3834,-140.8 3882.5324,-122.5844 3937.2069,-100.3379 3976.2853,-84.1334"/>
+<polygon fill="#555555" stroke="#555555" points="3985.8712,-80.1499 3978.3636,-88.1428 3981.254,-82.0686 3976.6368,-83.9874 3976.6368,-83.9874 3976.6368,-83.9874 3981.254,-82.0686 3974.9099,-79.8319 3985.8712,-80.1499 3985.8712,-80.1499"/>
+</g>
+<!-- ISS_Terminology -->
+<g id="node16" class="node">
+<title>ISS_Terminology</title>
+<path fill="#f9f9f9" stroke="#555555" d="M4410.4,-90C4410.4,-90 4289.6,-90 4289.6,-90 4283.6,-90 4277.6,-84 4277.6,-78 4277.6,-78 4277.6,-46 4277.6,-46 4277.6,-40 4283.6,-34 4289.6,-34 4289.6,-34 4410.4,-34 4410.4,-34 4416.4,-34 4422.4,-40 4422.4,-46 4422.4,-46 4422.4,-78 4422.4,-78 4422.4,-84 4416.4,-90 4410.4,-90"/>
+<text text-anchor="middle" x="4350" y="-77" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ISS Terminology</text>
+<text text-anchor="middle" x="4350" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Threats</text>
+<text text-anchor="middle" x="4350" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Attacks (Passive vs. Active)</text>
+<text text-anchor="middle" x="4350" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Adverse Events</text>
+</g>
+<!-- ISSM Overview&#45;&gt;ISS_Terminology -->
+<g id="edge15" class="edge">
+<title>ISSM Overview-&gt;ISS_Terminology</title>
+<path fill="none" stroke="#555555" d="M3410.2119,-324.192C3601.4202,-302.7349 3948.0357,-251.2957 4224,-140.8 4252.4786,-129.3972 4281.6831,-111.5884 4304.7962,-95.7838"/>
+<polygon fill="#555555" stroke="#555555" points="4313.0233,-90.0672 4307.3789,-99.4689 4308.9172,-92.9203 4304.8111,-95.7734 4304.8111,-95.7734 4304.8111,-95.7734 4308.9172,-92.9203 4302.2433,-92.0779 4313.0233,-90.0672 4313.0233,-90.0672"/>
+</g>
+<!-- Life_Cycle -->
+<g id="node17" class="node">
+<title>Life_Cycle</title>
+<path fill="#f9f9f9" stroke="#555555" d="M4609.4551,-96C4609.4551,-96 4542.5449,-96 4542.5449,-96 4536.5449,-96 4530.5449,-90 4530.5449,-84 4530.5449,-84 4530.5449,-40 4530.5449,-40 4530.5449,-34 4536.5449,-28 4542.5449,-28 4542.5449,-28 4609.4551,-28 4609.4551,-28 4615.4551,-28 4621.4551,-34 4621.4551,-40 4621.4551,-40 4621.4551,-84 4621.4551,-84 4621.4551,-90 4615.4551,-96 4609.4551,-96"/>
+<text text-anchor="middle" x="4576" y="-83" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ISSM Life Cycle</text>
+<text text-anchor="middle" x="4576" y="-71" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Planning</text>
+<text text-anchor="middle" x="4576" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Evaluation</text>
+<text text-anchor="middle" x="4576" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Design</text>
+<text text-anchor="middle" x="4576" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Implementation</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Life_Cycle -->
+<g id="edge16" class="edge">
+<title>ISSM Overview-&gt;Life_Cycle</title>
+<path fill="none" stroke="#555555" d="M3410.1868,-322.3981C3683.7159,-291.9748 4269.9777,-219.7162 4457,-140.8 4480.5714,-130.8538 4504.4866,-116.1124 4524.6339,-102.0617"/>
+<polygon fill="#555555" stroke="#555555" points="4533.0258,-96.0983 4527.481,-105.5591 4528.9501,-98.9946 4524.8743,-101.8909 4524.8743,-101.8909 4524.8743,-101.8909 4528.9501,-98.9946 4522.2677,-98.2228 4533.0258,-96.0983 4533.0258,-96.0983"/>
+<text text-anchor="middle" x="4274.5421" y="-202.2" font-family="Times,serif" font-size="14.00" fill="#000000">Management</text>
+</g>
+<!-- Controls_Type -->
+<g id="node18" class="node">
+<title>Controls_Type</title>
+<path fill="#f9f9f9" stroke="#555555" d="M4892.9666,-96C4892.9666,-96 4741.0334,-96 4741.0334,-96 4735.0334,-96 4729.0334,-90 4729.0334,-84 4729.0334,-84 4729.0334,-40 4729.0334,-40 4729.0334,-34 4735.0334,-28 4741.0334,-28 4741.0334,-28 4892.9666,-28 4892.9666,-28 4898.9666,-28 4904.9666,-34 4904.9666,-40 4904.9666,-40 4904.9666,-84 4904.9666,-84 4904.9666,-90 4898.9666,-96 4892.9666,-96"/>
+<text text-anchor="middle" x="4817" y="-83" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Controls by Type</text>
+<text text-anchor="middle" x="4817" y="-71" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Regulatory: Compliance</text>
+<text text-anchor="middle" x="4817" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Informal: Culture, awareness</text>
+<text text-anchor="middle" x="4817" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Formal: Policies, roles</text>
+<text text-anchor="middle" x="4817" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Technical: Authentication, firewalls</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Controls_Type -->
+<g id="edge17" class="edge">
+<title>ISSM Overview-&gt;Controls_Type</title>
+<path fill="none" stroke="#555555" d="M3410.1358,-325.8652C3616.1417,-307.9174 4007.7806,-269.8395 4338,-214.8 4489.2596,-189.5887 4531.5588,-195.0189 4675,-140.8 4702.4816,-130.4123 4731.118,-115.4252 4755.4158,-101.304"/>
+<polygon fill="#555555" stroke="#555555" points="4764.1611,-96.1508 4757.8302,-105.1045 4759.8534,-98.6892 4755.5456,-101.2275 4755.5456,-101.2275 4755.5456,-101.2275 4759.8534,-98.6892 4753.2611,-97.3506 4764.1611,-96.1508 4764.1611,-96.1508"/>
+</g>
+<!-- Controls_Purpose -->
+<g id="node19" class="node">
+<title>Controls_Purpose</title>
+<path fill="#f9f9f9" stroke="#555555" d="M5159.3001,-108C5159.3001,-108 5024.6999,-108 5024.6999,-108 5018.6999,-108 5012.6999,-102 5012.6999,-96 5012.6999,-96 5012.6999,-28 5012.6999,-28 5012.6999,-22 5018.6999,-16 5024.6999,-16 5024.6999,-16 5159.3001,-16 5159.3001,-16 5165.3001,-16 5171.3001,-22 5171.3001,-28 5171.3001,-28 5171.3001,-96 5171.3001,-96 5171.3001,-102 5165.3001,-108 5159.3001,-108"/>
+<text text-anchor="middle" x="5092" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Controls by Purpose</text>
+<text text-anchor="middle" x="5092" y="-83" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Directing: Guiding ISS strategy</text>
+<text text-anchor="middle" x="5092" y="-71" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Structuring: Defining roles</text>
+<text text-anchor="middle" x="5092" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Learning: Incident analysis</text>
+<text text-anchor="middle" x="5092" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Preventing: Safeguarding IS</text>
+<text text-anchor="middle" x="5092" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Detecting: Monitoring</text>
+<text text-anchor="middle" x="5092" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Reacting: Incident response</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Controls_Purpose -->
+<g id="edge18" class="edge">
+<title>ISSM Overview-&gt;Controls_Purpose</title>
+<path fill="none" stroke="#555555" d="M3410.21,-325.3352C3636.3616,-305.4454 4089.8858,-263.4418 4473,-214.8 4689.7495,-187.2805 4753.2366,-214.2785 4959,-140.8 4978.549,-133.819 4998.4257,-123.8635 5016.6476,-113.368"/>
+<polygon fill="#555555" stroke="#555555" points="5025.4513,-108.183 5019.1184,-117.1353 5021.143,-110.7204 5016.8347,-113.2579 5016.8347,-113.2579 5016.8347,-113.2579 5021.143,-110.7204 5014.551,-109.3804 5025.4513,-108.183 5025.4513,-108.183"/>
+</g>
+<!-- CIA -->
+<g id="node20" class="node">
+<title>CIA</title>
+<path fill="#f9f9f9" stroke="#555555" d="M5390.7292,-90C5390.7292,-90 5291.2708,-90 5291.2708,-90 5285.2708,-90 5279.2708,-84 5279.2708,-78 5279.2708,-78 5279.2708,-46 5279.2708,-46 5279.2708,-40 5285.2708,-34 5291.2708,-34 5291.2708,-34 5390.7292,-34 5390.7292,-34 5396.7292,-34 5402.7292,-40 5402.7292,-46 5402.7292,-46 5402.7292,-78 5402.7292,-78 5402.7292,-84 5396.7292,-90 5390.7292,-90"/>
+<text text-anchor="middle" x="5341" y="-77" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">ISS Requirements (CIA)</text>
+<text text-anchor="middle" x="5341" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Confidentiality</text>
+<text text-anchor="middle" x="5341" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Integrity</text>
+<text text-anchor="middle" x="5341" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Availability</text>
+</g>
+<!-- ISSM Overview&#45;&gt;CIA -->
+<g id="edge19" class="edge">
+<title>ISSM Overview-&gt;CIA</title>
+<path fill="none" stroke="#555555" d="M3410.2644,-326.912C3662.5496,-307.6513 4202.4409,-264.4679 4657,-214.8 4910.0716,-187.1479 4987.0231,-231.2262 5225,-140.8 5252.1235,-130.4936 5279.1335,-112.7049 5300.2572,-96.6343"/>
+<polygon fill="#555555" stroke="#555555" points="5308.3446,-90.3468 5303.2118,-100.0373 5304.3972,-93.4157 5300.4498,-96.4846 5300.4498,-96.4846 5300.4498,-96.4846 5304.3972,-93.4157 5297.6878,-92.9319 5308.3446,-90.3468 5308.3446,-90.3468"/>
+</g>
+<!-- RITE -->
+<g id="node21" class="node">
+<title>RITE</title>
+<path fill="#f9f9f9" stroke="#555555" d="M5675.6401,-96C5675.6401,-96 5522.3599,-96 5522.3599,-96 5516.3599,-96 5510.3599,-90 5510.3599,-84 5510.3599,-84 5510.3599,-40 5510.3599,-40 5510.3599,-34 5516.3599,-28 5522.3599,-28 5522.3599,-28 5675.6401,-28 5675.6401,-28 5681.6401,-28 5687.6401,-34 5687.6401,-40 5687.6401,-40 5687.6401,-84 5687.6401,-84 5687.6401,-90 5681.6401,-96 5675.6401,-96"/>
+<text text-anchor="middle" x="5599" y="-83" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Expanded ISS Requirements (RITE)</text>
+<text text-anchor="middle" x="5599" y="-71" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Responsibility</text>
+<text text-anchor="middle" x="5599" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Integrity</text>
+<text text-anchor="middle" x="5599" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Trust</text>
+<text text-anchor="middle" x="5599" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Ethicality</text>
+</g>
+<!-- ISSM Overview&#45;&gt;RITE -->
+<g id="edge20" class="edge">
+<title>ISSM Overview-&gt;RITE</title>
+<path fill="none" stroke="#555555" d="M3410.0378,-329.6556C3694.7352,-313.2264 4352.3509,-272.1938 4903,-214.8 5150.0706,-189.048 5221.1782,-218.8714 5457,-140.8 5485.6058,-131.3297 5515.076,-116.0327 5539.7032,-101.4247"/>
+<polygon fill="#555555" stroke="#555555" points="5548.5467,-96.086 5542.3114,-105.1066 5544.2662,-98.6701 5539.9857,-101.2542 5539.9857,-101.2542 5539.9857,-101.2542 5544.2662,-98.6701 5537.66,-97.4017 5548.5467,-96.086 5548.5467,-96.086"/>
+</g>
+<!-- Top_Priorities -->
+<g id="node22" class="node">
+<title>Top_Priorities</title>
+<path fill="#f9f9f9" stroke="#555555" d="M5923.897,-102C5923.897,-102 5808.103,-102 5808.103,-102 5802.103,-102 5796.103,-96 5796.103,-90 5796.103,-90 5796.103,-34 5796.103,-34 5796.103,-28 5802.103,-22 5808.103,-22 5808.103,-22 5923.897,-22 5923.897,-22 5929.897,-22 5935.897,-28 5935.897,-34 5935.897,-34 5935.897,-90 5935.897,-90 5935.897,-96 5929.897,-102 5923.897,-102"/>
+<text text-anchor="middle" x="5866" y="-89" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Top Priorities</text>
+<text text-anchor="middle" x="5866" y="-77" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Recovery Capability</text>
+<text text-anchor="middle" x="5866" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Anomaly Detection</text>
+<text text-anchor="middle" x="5866" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Management Commitment</text>
+<text text-anchor="middle" x="5866" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Validation</text>
+<text text-anchor="middle" x="5866" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Alignment with Strategy</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Top_Priorities -->
+<g id="edge21" class="edge">
+<title>ISSM Overview-&gt;Top_Priorities</title>
+<path fill="none" stroke="#555555" d="M3410.1993,-330.8448C3721.6247,-315.5534 4483.6583,-274.8839 5120,-214.8 5388.8149,-189.4183 5466.0981,-223.9089 5723,-140.8 5748.119,-132.6739 5773.8884,-120.0305 5796.5101,-107.2323"/>
+<polygon fill="#555555" stroke="#555555" points="5805.3434,-102.1377 5798.9291,-111.032 5801.0122,-104.6358 5796.6809,-107.1338 5796.6809,-107.1338 5796.6809,-107.1338 5801.0122,-104.6358 5794.4326,-103.2357 5805.3434,-102.1377 5805.3434,-102.1377"/>
+<text text-anchor="middle" x="5476.5151" y="-202.2" font-family="Times,serif" font-size="14.00" fill="#000000">Key Issues</text>
+</g>
+<!-- Additional_Issues -->
+<g id="node23" class="node">
+<title>Additional_Issues</title>
+<path fill="#f9f9f9" stroke="#555555" d="M6158.009,-108C6158.009,-108 6055.991,-108 6055.991,-108 6049.991,-108 6043.991,-102 6043.991,-96 6043.991,-96 6043.991,-28 6043.991,-28 6043.991,-22 6049.991,-16 6055.991,-16 6055.991,-16 6158.009,-16 6158.009,-16 6164.009,-16 6170.009,-22 6170.009,-28 6170.009,-28 6170.009,-96 6170.009,-96 6170.009,-102 6164.009,-108 6158.009,-108"/>
+<text text-anchor="middle" x="6107" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Additional Issues</text>
+<text text-anchor="middle" x="6107" y="-83" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Data Confidentiality</text>
+<text text-anchor="middle" x="6107" y="-71" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Privacy Compliance</text>
+<text text-anchor="middle" x="6107" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Regulatory Compliance</text>
+<text text-anchor="middle" x="6107" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Legal Responsibilities</text>
+<text text-anchor="middle" x="6107" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- User Behavior Control</text>
+<text text-anchor="middle" x="6107" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Vendor Accountability</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Additional_Issues -->
+<g id="edge22" class="edge">
+<title>ISSM Overview-&gt;Additional_Issues</title>
+<path fill="none" stroke="#555555" d="M3410.3258,-335.1433C3769.0725,-327.8424 4734.3235,-301.0954 5534,-214.8 5738.1328,-192.7714 5799.0858,-216.3461 5990,-140.8 6007.2924,-133.9573 6024.6207,-124.2405 6040.442,-113.9568"/>
+<polygon fill="#555555" stroke="#555555" points="6049.0668,-108.1999 6043.2477,-117.4945 6044.9081,-110.9758 6040.7494,-113.7517 6040.7494,-113.7517 6040.7494,-113.7517 6044.9081,-110.9758 6038.2511,-110.0088 6049.0668,-108.1999 6049.0668,-108.1999"/>
+</g>
+</g>
+</svg>

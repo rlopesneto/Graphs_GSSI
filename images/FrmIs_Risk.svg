@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3230pt" height="330pt" viewBox="0.00 0.00 3230.00 330.40">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 326.4)">
+<title>ISSM_Risk</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-326.4 3226,-326.4 3226,4 -4,4"/>
+<g id="clust6" class="cluster">
+<title>cluster_risk_failure</title>
+<polygon fill="#f9d7f7" stroke="#000000" points="2566,-20 2566,-104.8 3214,-104.8 3214,-20 2566,-20"/>
+<text text-anchor="middle" x="2890" y="-88.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 5: Risk Assessment Failure</text>
+</g>
+<g id="clust1" class="cluster">
+<title>cluster_overview</title>
+<polygon fill="#d3e9ff" stroke="#000000" points="1346,-236.8 1346,-314.4 1642,-314.4 1642,-236.8 1346,-236.8"/>
+<text text-anchor="middle" x="1494" y="-297.8" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Risk Management in ISS</text>
+</g>
+<g id="clust2" class="cluster">
+<title>cluster_risk_concept</title>
+<polygon fill="#e6f7d9" stroke="#000000" points="8,-14 8,-110.8 780,-110.8 780,-14 8,-14"/>
+<text text-anchor="middle" x="394" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 1: The Concept of Risk</text>
+</g>
+<g id="clust3" class="cluster">
+<title>cluster_irm</title>
+<polygon fill="#ffd7d7" stroke="#000000" points="872,-14 872,-110.8 1306,-110.8 1306,-14 872,-14"/>
+<text text-anchor="middle" x="1089" y="-94.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 2: Information Risk Management (IRM)</text>
+</g>
+<g id="clust4" class="cluster">
+<title>cluster_risk_assessment</title>
+<polygon fill="#ffe9c6" stroke="#000000" points="1398,-8 1398,-116.8 1888,-116.8 1888,-8 1398,-8"/>
+<text text-anchor="middle" x="1643" y="-100.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 3: Risk Assessment</text>
+</g>
+<g id="clust5" class="cluster">
+<title>cluster_risk_treatment</title>
+<polygon fill="#d9f0ff" stroke="#000000" points="1980,-8 1980,-116.8 2474,-116.8 2474,-8 1980,-8"/>
+<text text-anchor="middle" x="2227" y="-100.2" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#333333">Part 4: Risk Treatment</text>
+</g>
+<!-- ISSM Overview -->
+<g id="node1" class="node">
+<title>ISSM Overview</title>
+<path fill="#f9f9f9" stroke="transparent" d="M1621.8871,-281.5005C1621.8871,-281.5005 1366.1129,-281.5005 1366.1129,-281.5005 1360.1129,-281.5005 1354.1129,-275.5005 1354.1129,-269.5005 1354.1129,-269.5005 1354.1129,-256.8995 1354.1129,-256.8995 1354.1129,-250.8995 1360.1129,-244.8995 1366.1129,-244.8995 1366.1129,-244.8995 1621.8871,-244.8995 1621.8871,-244.8995 1627.8871,-244.8995 1633.8871,-250.8995 1633.8871,-256.8995 1633.8871,-256.8995 1633.8871,-269.5005 1633.8871,-269.5005 1633.8871,-275.5005 1627.8871,-281.5005 1621.8871,-281.5005"/>
+<text text-anchor="middle" x="1494" y="-266.8" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#333333">Focus: Identifying, assessing, and mitigating risks</text>
+<text text-anchor="middle" x="1494" y="-252.4" font-family="Helvetica,sans-Serif" font-size="12.00" fill="#333333">Maintain secure information environment</text>
+</g>
+<!-- Uncertainty_vs_Risk -->
+<g id="node2" class="node">
+<title>Uncertainty_vs_Risk</title>
+<path fill="#f9f9f9" stroke="#555555" d="M167.7472,-72C167.7472,-72 28.2528,-72 28.2528,-72 22.2528,-72 16.2528,-66 16.2528,-60 16.2528,-60 16.2528,-40 16.2528,-40 16.2528,-34 22.2528,-28 28.2528,-28 28.2528,-28 167.7472,-28 167.7472,-28 173.7472,-28 179.7472,-34 179.7472,-40 179.7472,-40 179.7472,-60 179.7472,-60 179.7472,-66 173.7472,-72 167.7472,-72"/>
+<text text-anchor="middle" x="98" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Uncertainty vs. Risk</text>
+<text text-anchor="middle" x="98" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Risk: Measurable future events</text>
+<text text-anchor="middle" x="98" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Uncertainty: Indefinite likelihood</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Uncertainty_vs_Risk -->
+<g id="edge1" class="edge">
+<title>ISSM Overview-&gt;Uncertainty_vs_Risk</title>
+<path fill="none" stroke="#555555" d="M1354.2932,-253.3727C1169.5185,-239.567 833.9618,-211.6932 549.0112,-172.8 408.1175,-153.5693 369.1482,-161.0247 234,-116.8 203.1609,-106.7085 170.4656,-90.8329 144.8628,-77.0903"/>
+<polygon fill="#555555" stroke="#555555" points="135.7677,-72.1384 146.7022,-72.968 140.159,-74.5293 144.5504,-76.9202 144.5504,-76.9202 144.5504,-76.9202 140.159,-74.5293 142.3985,-80.8724 135.7677,-72.1384 135.7677,-72.1384"/>
+<text text-anchor="middle" x="595.4944" y="-160.2" font-family="Times,serif" font-size="14.00" fill="#000000">Concept of Risk</text>
+</g>
+<!-- Risk_Perspectives -->
+<g id="node3" class="node">
+<title>Risk_Perspectives</title>
+<path fill="#f9f9f9" stroke="#555555" d="M444.2312,-78C444.2312,-78 299.7688,-78 299.7688,-78 293.7688,-78 287.7688,-72 287.7688,-66 287.7688,-66 287.7688,-34 287.7688,-34 287.7688,-28 293.7688,-22 299.7688,-22 299.7688,-22 444.2312,-22 444.2312,-22 450.2312,-22 456.2312,-28 456.2312,-34 456.2312,-34 456.2312,-66 456.2312,-66 456.2312,-72 450.2312,-78 444.2312,-78"/>
+<text text-anchor="middle" x="372" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Different Perspectives on Risk</text>
+<text text-anchor="middle" x="372" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Engineering: Numerical</text>
+<text text-anchor="middle" x="372" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Anthropology: Social Construct</text>
+<text text-anchor="middle" x="372" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Political Science: Policy Decision</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Risk_Perspectives -->
+<g id="edge2" class="edge">
+<title>ISSM Overview-&gt;Risk_Perspectives</title>
+<path fill="none" stroke="#555555" d="M1354.1701,-255.7271C1160.6847,-242.4088 802.1168,-206.9239 510,-116.8 482.5977,-108.3458 453.8183,-95.1765 429.6743,-82.758"/>
+<polygon fill="#555555" stroke="#555555" points="420.6603,-78.0466 431.6073,-78.6907 425.0916,-80.3627 429.5228,-82.6788 429.5228,-82.6788 429.5228,-82.6788 425.0916,-80.3627 427.4383,-86.6669 420.6603,-78.0466 420.6603,-78.0466"/>
+</g>
+<!-- Risk_Definition -->
+<g id="node4" class="node">
+<title>Risk_Definition</title>
+<path fill="#f9f9f9" stroke="#555555" d="M760.2451,-68C760.2451,-68 575.7549,-68 575.7549,-68 569.7549,-68 563.7549,-62 563.7549,-56 563.7549,-56 563.7549,-44 563.7549,-44 563.7549,-38 569.7549,-32 575.7549,-32 575.7549,-32 760.2451,-32 760.2451,-32 766.2451,-32 772.2451,-38 772.2451,-44 772.2451,-44 772.2451,-56 772.2451,-56 772.2451,-62 766.2451,-68 760.2451,-68"/>
+<text text-anchor="middle" x="668" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Definition</text>
+<text text-anchor="middle" x="668" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Risk: Possibility of actions impacting values</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Risk_Definition -->
+<g id="edge3" class="edge">
+<title>ISSM Overview-&gt;Risk_Definition</title>
+<path fill="none" stroke="#555555" d="M1392.536,-244.8496C1263.8423,-220.5422 1035.7095,-173.9946 845,-116.8 802.2962,-103.9929 755.1159,-85.987 720.2119,-71.8959"/>
+<polygon fill="#555555" stroke="#555555" points="710.7067,-68.0328 721.6652,-67.6291 715.3388,-69.9154 719.9709,-71.7979 719.9709,-71.7979 719.9709,-71.7979 715.3388,-69.9154 718.2766,-75.9668 710.7067,-68.0328 710.7067,-68.0328"/>
+</g>
+<!-- IRM_Process -->
+<g id="node5" class="node">
+<title>IRM_Process</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1037.923,-72C1037.923,-72 892.077,-72 892.077,-72 886.077,-72 880.077,-66 880.077,-60 880.077,-60 880.077,-40 880.077,-40 880.077,-34 886.077,-28 892.077,-28 892.077,-28 1037.923,-28 1037.923,-28 1043.923,-28 1049.923,-34 1049.923,-40 1049.923,-40 1049.923,-60 1049.923,-60 1049.923,-66 1043.923,-72 1037.923,-72"/>
+<text text-anchor="middle" x="965" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">IRM Process</text>
+<text text-anchor="middle" x="965" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Identify, assess, and reduce risks</text>
+<text text-anchor="middle" x="965" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Maintain acceptable risk levels</text>
+</g>
+<!-- ISSM Overview&#45;&gt;IRM_Process -->
+<g id="edge4" class="edge">
+<title>ISSM Overview-&gt;IRM_Process</title>
+<path fill="none" stroke="#555555" d="M1440.7376,-244.8989C1365.0941,-218.5264 1222.5583,-167.4222 1104,-116.8 1075.0522,-104.4398 1043.3779,-89.3444 1017.5861,-76.6327"/>
+<polygon fill="#555555" stroke="#555555" points="1008.3659,-72.0667 1019.3243,-72.4719 1012.8466,-74.2856 1017.3273,-76.5045 1017.3273,-76.5045 1017.3273,-76.5045 1012.8466,-74.2856 1015.3302,-80.5372 1008.3659,-72.0667 1008.3659,-72.0667"/>
+<text text-anchor="middle" x="1256.2209" y="-160.2" font-family="Times,serif" font-size="14.00" fill="#000000">IRM</text>
+</g>
+<!-- IRM_Requirements -->
+<g id="node6" class="node">
+<title>IRM_Requirements</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1285.897,-78C1285.897,-78 1170.103,-78 1170.103,-78 1164.103,-78 1158.103,-72 1158.103,-66 1158.103,-66 1158.103,-34 1158.103,-34 1158.103,-28 1164.103,-22 1170.103,-22 1170.103,-22 1285.897,-22 1285.897,-22 1291.897,-22 1297.897,-28 1297.897,-34 1297.897,-34 1297.897,-66 1297.897,-66 1297.897,-72 1291.897,-78 1285.897,-78"/>
+<text text-anchor="middle" x="1228" y="-65" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">IRM Requirements</text>
+<text text-anchor="middle" x="1228" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Management Commitment</text>
+<text text-anchor="middle" x="1228" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Documented Process</text>
+<text text-anchor="middle" x="1228" y="-29" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Risk Management Policy</text>
+</g>
+<!-- ISSM Overview&#45;&gt;IRM_Requirements -->
+<g id="edge5" class="edge">
+<title>ISSM Overview-&gt;IRM_Requirements</title>
+<path fill="none" stroke="#555555" d="M1470.8596,-244.6529C1426.4047,-209.0221 1328.4282,-130.4936 1271.4367,-84.8146"/>
+<polygon fill="#555555" stroke="#555555" points="1263.3367,-78.3225 1273.954,-81.0653 1267.2382,-81.4496 1271.1397,-84.5766 1271.1397,-84.5766 1271.1397,-84.5766 1267.2382,-81.4496 1268.3253,-88.088 1263.3367,-78.3225 1263.3367,-78.3225"/>
+</g>
+<!-- Assessment_Activities -->
+<g id="node7" class="node">
+<title>Assessment_Activities</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1570.0835,-84C1570.0835,-84 1417.9165,-84 1417.9165,-84 1411.9165,-84 1405.9165,-78 1405.9165,-72 1405.9165,-72 1405.9165,-28 1405.9165,-28 1405.9165,-22 1411.9165,-16 1417.9165,-16 1417.9165,-16 1570.0835,-16 1570.0835,-16 1576.0835,-16 1582.0835,-22 1582.0835,-28 1582.0835,-28 1582.0835,-72 1582.0835,-72 1582.0835,-78 1576.0835,-84 1570.0835,-84"/>
+<text text-anchor="middle" x="1494" y="-71" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Activities</text>
+<text text-anchor="middle" x="1494" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Asset Identification</text>
+<text text-anchor="middle" x="1494" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Vulnerability &amp; Threat Identification</text>
+<text text-anchor="middle" x="1494" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Quantify Risk</text>
+<text text-anchor="middle" x="1494" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Cost/Benefit Analysis</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Assessment_Activities -->
+<g id="edge6" class="edge">
+<title>ISSM Overview-&gt;Assessment_Activities</title>
+<path fill="none" stroke="#555555" d="M1494,-244.6529C1494,-211.4053 1494,-140.8063 1494,-94.3985"/>
+<polygon fill="#555555" stroke="#555555" points="1494,-84.3107 1498.5001,-94.3106 1494,-89.3107 1494.0001,-94.3107 1494.0001,-94.3107 1494.0001,-94.3107 1494,-89.3107 1489.5001,-94.3107 1494,-84.3107 1494,-84.3107"/>
+<text text-anchor="middle" x="1541.6336" y="-160.2" font-family="Times,serif" font-size="14.00" fill="#000000">Risk Assessment</text>
+</g>
+<!-- Quantitative_vs_Qualitative -->
+<g id="node8" class="node">
+<title>Quantitative_vs_Qualitative</title>
+<path fill="#f9f9f9" stroke="#555555" d="M1867.8704,-84C1867.8704,-84 1702.1296,-84 1702.1296,-84 1696.1296,-84 1690.1296,-78 1690.1296,-72 1690.1296,-72 1690.1296,-28 1690.1296,-28 1690.1296,-22 1696.1296,-16 1702.1296,-16 1702.1296,-16 1867.8704,-16 1867.8704,-16 1873.8704,-16 1879.8704,-22 1879.8704,-28 1879.8704,-28 1879.8704,-72 1879.8704,-72 1879.8704,-78 1873.8704,-84 1867.8704,-84"/>
+<text text-anchor="middle" x="1785" y="-71" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Quantitative vs. Qualitative</text>
+<text text-anchor="middle" x="1785" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Quantitative:</text>
+<text text-anchor="middle" x="1785" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Uses SLE, ALE</text>
+<text text-anchor="middle" x="1785" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Qualitative:</text>
+<text text-anchor="middle" x="1785" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Scenarios, Surveys, Expert Judgment</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Quantitative_vs_Qualitative -->
+<g id="edge7" class="edge">
+<title>ISSM Overview-&gt;Quantitative_vs_Qualitative</title>
+<path fill="none" stroke="#555555" d="M1519.0624,-244.8382C1565.703,-210.6671 1666.8172,-136.5862 1730.0531,-90.2566"/>
+<polygon fill="#555555" stroke="#555555" points="1738.3332,-84.1903 1732.926,-93.7304 1734.2998,-87.1453 1730.2664,-90.1003 1730.2664,-90.1003 1730.2664,-90.1003 1734.2998,-87.1453 1727.6069,-86.4703 1738.3332,-84.1903 1738.3332,-84.1903"/>
+</g>
+<!-- Treatment_Options -->
+<g id="node9" class="node">
+<title>Treatment_Options</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2122.0756,-84C2122.0756,-84 1999.9244,-84 1999.9244,-84 1993.9244,-84 1987.9244,-78 1987.9244,-72 1987.9244,-72 1987.9244,-28 1987.9244,-28 1987.9244,-22 1993.9244,-16 1999.9244,-16 1999.9244,-16 2122.0756,-16 2122.0756,-16 2128.0756,-16 2134.0756,-22 2134.0756,-28 2134.0756,-28 2134.0756,-72 2134.0756,-72 2134.0756,-78 2128.0756,-84 2122.0756,-84"/>
+<text text-anchor="middle" x="2061" y="-71" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Treatment Options</text>
+<text text-anchor="middle" x="2061" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Reduce: Implement controls</text>
+<text text-anchor="middle" x="2061" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Transfer: Use insurance</text>
+<text text-anchor="middle" x="2061" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Accept: Tolerate risk</text>
+<text text-anchor="middle" x="2061" y="-23" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Avoid: Cease activity</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Treatment_Options -->
+<g id="edge8" class="edge">
+<title>ISSM Overview-&gt;Treatment_Options</title>
+<path fill="none" stroke="#555555" d="M1552.18,-244.895C1634.0046,-218.7165 1787.3593,-168.0601 1915,-116.8 1936.5181,-108.1584 1959.4685,-98.0792 1980.6482,-88.4092"/>
+<polygon fill="#555555" stroke="#555555" points="1989.9241,-84.1491 1982.7147,-92.412 1985.3803,-86.2359 1980.8366,-88.3227 1980.8366,-88.3227 1980.8366,-88.3227 1985.3803,-86.2359 1978.9585,-84.2333 1989.9241,-84.1491 1989.9241,-84.1491"/>
+<text text-anchor="middle" x="1855.3503" y="-160.2" font-family="Times,serif" font-size="14.00" fill="#000000">Risk Treatment</text>
+</g>
+<!-- Key_Concepts -->
+<g id="node10" class="node">
+<title>Key_Concepts</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2453.7271,-72C2453.7271,-72 2254.2729,-72 2254.2729,-72 2248.2729,-72 2242.2729,-66 2242.2729,-60 2242.2729,-60 2242.2729,-40 2242.2729,-40 2242.2729,-34 2248.2729,-28 2254.2729,-28 2254.2729,-28 2453.7271,-28 2453.7271,-28 2459.7271,-28 2465.7271,-34 2465.7271,-40 2465.7271,-40 2465.7271,-60 2465.7271,-60 2465.7271,-66 2459.7271,-72 2453.7271,-72"/>
+<text text-anchor="middle" x="2354" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Key Concepts</text>
+<text text-anchor="middle" x="2354" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Acceptable Risk: Manageable risk level</text>
+<text text-anchor="middle" x="2354" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Residual Risk: Remaining risk after mitigation</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Key_Concepts -->
+<g id="edge9" class="edge">
+<title>ISSM Overview-&gt;Key_Concepts</title>
+<path fill="none" stroke="#555555" d="M1611.9519,-244.8856C1751.3398,-221.7423 1989.424,-177.4827 2188,-116.8 2224.6165,-105.6104 2264.4524,-89.7116 2295.9204,-76.2317"/>
+<polygon fill="#555555" stroke="#555555" points="2305.4049,-72.1338 2298.0099,-80.231 2300.815,-74.117 2296.2251,-76.1001 2296.2251,-76.1001 2296.2251,-76.1001 2300.815,-74.117 2294.4402,-71.9692 2305.4049,-72.1338 2305.4049,-72.1338"/>
+</g>
+<!-- Criticism -->
+<g id="node11" class="node">
+<title>Criticism</title>
+<path fill="#f9f9f9" stroke="#555555" d="M2756.3283,-68C2756.3283,-68 2585.6717,-68 2585.6717,-68 2579.6717,-68 2573.6717,-62 2573.6717,-56 2573.6717,-56 2573.6717,-44 2573.6717,-44 2573.6717,-38 2579.6717,-32 2585.6717,-32 2585.6717,-32 2756.3283,-32 2756.3283,-32 2762.3283,-32 2768.3283,-38 2768.3283,-44 2768.3283,-44 2768.3283,-56 2768.3283,-56 2768.3283,-62 2762.3283,-68 2756.3283,-68"/>
+<text text-anchor="middle" x="2671" y="-53" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Criticism of Traditional Risk Assessment</text>
+<text text-anchor="middle" x="2671" y="-41" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Limited data limits accuracy</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Criticism -->
+<g id="edge10" class="edge">
+<title>ISSM Overview-&gt;Criticism</title>
+<path fill="none" stroke="#555555" d="M1634.0786,-253.0679C1830.492,-236.5628 2197.6976,-197.2865 2501,-116.8 2543.2626,-105.5849 2589.318,-87.0713 2622.8191,-72.3753"/>
+<polygon fill="#555555" stroke="#555555" points="2632.3573,-68.1456 2625.0401,-76.3131 2627.7866,-70.1725 2623.2158,-72.1994 2623.2158,-72.1994 2623.2158,-72.1994 2627.7866,-70.1725 2621.3916,-68.0858 2632.3573,-68.1456 2632.3573,-68.1456"/>
+<text text-anchor="middle" x="2365.6245" y="-160.2" font-family="Times,serif" font-size="14.00" fill="#000000">Assessment Failure</text>
+</g>
+<!-- Alternative_Approaches -->
+<g id="node12" class="node">
+<title>Alternative_Approaches</title>
+<path fill="#f9f9f9" stroke="#555555" d="M3193.951,-72C3193.951,-72 2888.049,-72 2888.049,-72 2882.049,-72 2876.049,-66 2876.049,-60 2876.049,-60 2876.049,-40 2876.049,-40 2876.049,-34 2882.049,-28 2888.049,-28 2888.049,-28 3193.951,-28 3193.951,-28 3199.951,-28 3205.951,-34 3205.951,-40 3205.951,-40 3205.951,-60 3205.951,-60 3205.951,-66 3199.951,-72 3193.951,-72"/>
+<text text-anchor="middle" x="3041" y="-59" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">Alternative Approaches</text>
+<text text-anchor="middle" x="3041" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Baseline Approach: Use standards</text>
+<text text-anchor="middle" x="3041" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">- Scenario Techniques: Hypothetical situations to assess vulnerabilities</text>
+</g>
+<!-- ISSM Overview&#45;&gt;Alternative_Approaches -->
+<g id="edge11" class="edge">
+<title>ISSM Overview-&gt;Alternative_Approaches</title>
+<path fill="none" stroke="#555555" d="M1633.8251,-258.1028C1877.7691,-246.9307 2395.797,-213.0691 2822,-116.8 2871.2808,-105.6686 2925.61,-89.1245 2967.8271,-75.286"/>
+<polygon fill="#555555" stroke="#555555" points="2977.464,-72.1053 2969.3783,-79.5129 2972.7159,-73.6725 2967.9678,-75.2396 2967.9678,-75.2396 2967.9678,-75.2396 2972.7159,-73.6725 2966.5574,-70.9664 2977.464,-72.1053 2977.464,-72.1053"/>
+</g>
+</g>
+</svg>
